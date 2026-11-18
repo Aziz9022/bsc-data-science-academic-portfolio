@@ -1,0 +1,1283 @@
+Syllabus for
+S.Y.B.Sc.
+Program: Bachelor of Science
+Course: Data Science (TCSCDS)
+Choice Based Credit System (CBCS)
+With Effect from
+Academic Year 2021 - 2022
+SEMESTER III:
+● Sampling & Descriptive Statistics
+● Advance SQL
+● Technical Communication and content writing
+● Ad. R Programming
+● Data Structure & Algorithm
+SEMESTER IV:
+● Statistical Simulation and Multivariate Analysis
+● Data Warehousing and Data mining
+● Agile Software Engineering
+● Advance Python Programming
+● Data Visualization and Data Preparation
+B. Sc. (Data Science) Semester – III
+Course Name: Sampling &
+Descriptive Statistics
+Course Code: TCSCUSDS301
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation
+System
+Theory
+examination
+2 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10
+– Active Participation)
+Course Name Sampling &
+Descriptive Statistics Practical
+Course Code: TCSCUSDSP301
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation
+System
+Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of
+statistical techniques.
+● This course aims to provide the basics understanding of
+Sampling and distribution.
+Unit Details Lecture
+s
+I Concept of population and sample, complete enumeration versus
+sampling, sampling and non-sampling errors. Types of sampling:
+non-probability and probability sampling, basic principle of sample
+survey, simple random sampling with and without replacement, definition
+and procedure of selecting a sample, Estimates of: population mean,
+total and proportion, variances of these estimates, estimates of their
+variances and sample size determination.
+12
+II Stratified random sampling: Technique, estimates of population mean
+and total,
+variances of these estimates, proportional and optimum allocations and
+their comparison with SRS. Practical difficulties in allocation, estimation
+of gain in precision, post stratification and its performance. Systematic
+Sampling: Technique, estimates of population mean and total, variances
+of these estimates (N = n x k). Comparison of systematic sampling with
+SRS & stratified sampling in the presence of linear trend and
+corrections.
+12
+III Introduction to Ratio and regression methods of estimation, first
+approximation to the population mean and total (for SRS of large size),
+MSE of these estimates and estimates of these variances, MSE in terms
+of correlation coefficient for regression method of estimation and their
+comparison with SRS. Cluster sampling (equal clusters only) estimation
+of population mean and its variance,
+comparison (with and without randomly formed clusters). Concept of sub
+sampling. Two-stage Sampling, Estimation of Population mean and
+variance of the estimate.
+12
+IV Introduction to prediction using time-series regression methods with
+non-seasonal and seasonal data. Smoothing methods for forecasting.
+Modelling and forecasting using univariate, autoregressive, moving
+average models. Consumer price Index, Wholesale price index number
+and index of industrial production.
+12
+V Analysis of data on two characters: Measures of association and
+contingency-table. Analysis of categorical data: Fundamental set of
+frequencies, consistency of data, association of attributes and various
+measurement of association. Bivariate data: principles of least squares
+& fitting of first, second and third degree. Concept of correlation
+coefficient & its properties, correlation ratio, polynomial regression and
+correlation index. Rank correlation coefficient due to Spearman and
+Kendall. Partial and multiple correlation.
+12
+Books and References:
+Sr. No. Title Author/s Publisher Editio
+n
+Year
+1 Sampling
+Techniques :
+Cochran, W.G: Wiley Eastern. 1984
+2 Fundamentals of
+Statistics
+Goon A.M., Gupta
+M.K. and Dasgupta
+B.
+World
+Press.
+Vol 2 2008
+3 Advanced Theory of
+Statistics
+Kendal and Stuart: PHI
+4 Fundamentals of
+Statistics,
+Gupta S C: Himalaya
+Publishing House
+5 Fundamentals of
+Mathematical
+Statistics
+Gupta & Kapoor: S Chand
+6 Statistics Spiegel &
+Stephens,
+Mc l Graw Hill
+International
+7 Mathematical
+Statistics Pa
+Kapoor J N &
+SaxenaH C:
+S Chand
+8 Sampling Theories
+of
+Survey With
+Application,
+Statistics
+Sukhatme, P.V.,
+Sukhatme, B.V.
+Sukhatme, S. Asok,
+C.
+IOWA State
+University Press
+and Indian Society
+of Agricultural
+1984
+9 Sampling Theory &
+Statistical Methods,
+Statistical
+Murthy, M.N. Pub. Society, 1977
+10 Sample Survey
+Theory,
+Des Raj and
+Chandhok P
+Narosa Publishing
+House.
+1998
+Course
+Outcome
+● Understand importance of sampling and distribution.
+B. Sc. (Data Science) Semester – III
+Course Name: Advance SQL Course Code: TCSCUSDS302
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation
+System
+Theory
+Examination
+2½ 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10 – Active
+Participation)
+Course Name: Advance SQL
+Practical
+Course Code: TCSCUSDSP302
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation
+System
+Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of
+PL/SQL.
+● This course aims to provide the basics understanding of
+Queries and programs in database.
+Unit Details Lecture
+s
+I Structured Query Language : Writing Basic SQL Select Statements,
+Restricting and Sorting Data, Single-Row Functions, Multi-table Queries
+(Joins): A Two-Table Query Example , Simple Joins (Equi-Joins),
+Parent/Child Queries , An Alternative Way to Specify Joins, Joins with
+Row Selection Criteria, Multiple Matching Columns, Natural Joins,
+Queries with Three or More Tables, Other Equi-Joins, Non-Equi-Joins,
+SQL Considerations for Multi-table Queries, Qualified Column Names,
+All-Column Selections, Self-Joins, Table Aliases, Multi-table Query
+Performance, The Structure of a Join, Table Multiplication, Rules for
+Multi-table Query Processing , Outer Joins, Left and Right Outer Joins.
+12
+II Grouped Queries (GROUP BY Clause), Multiple Grouping Columns ,
+Restrictions on Grouped Queries, Values in Grouping Columns , Group
+Search Conditions (HAVING Clause) , Restrictions on Group Search
+Conditions , NULL Values and Group Search Conditions , HAVING
+Without GROUP BY, Enhancements to Group by clause (cube, Rollup
+and Grouping)
+Sub-queries and Query Expressions : What Is a Sub-query, in the
+WHERE Clause , Outer References , Sub-query Search Conditions ,
+12
+Sub-query Comparison Test (=, <>, <=, >, >=) , The Set Membership
+Test (IN) , Existence Test (EXISTS) , Quantified Tests (ANY and ALL) ,
+Sub-queries and Joins , Nested Sub-queries , Correlated Sub-queries,
+Sub-queries in the HAVING Clause, Advanced Queries: Scalar-Valued
+Expressions, Row-Valued Expressions, Table-Valued Expressions.
+Advanced Sub-queries (Multiple column sub-queries, Sub-queries in
+FROM clause, Scalar and correlated sub-queries), WITH Clause,
+Hierarchical retrieval.
+III Control Structures : Conditional processing using IF statements and
+CASE statements, Loop Statement, while loop statement, for loop
+statement, the continue statement composite data types : PL/SQL
+records, The % ROWTYPE attribute, insert and update with PL/SQL
+records, INDEX by tables, INDEX BY Table Methods, Use INDEX BY
+Table of Records, Explicit Cursors, Declare the Cursor, Open the 2
+Cursor, Fetch data from the Cursor, Close the Cursor, Cursor FOR loop,
+The % NOTFOUND and % ROWCOUNT Attributes, the FOR UPDATE
+Clause and WHERE CURRENT Clause, Exception Handling, Handle
+Exceptions with PL/SQL, Trap Predefined and non-predefined Oracle
+Server Errors, User - Defined Exceptions, Propagate Exceptions,
+RAISE_APPLICATION_ERROR Procedure.
+12
+IV Stored Procedures : Create a Modularized and Layered Subprogram
+Design, the PL/SQL Execution Environment, differences between
+Anonymous Blocks and Subprograms, Create, Call, and Remove Stored
+Procedures, Implement Procedures Parameters and Parameters Modes,
+View Procedure Information, Stored Functions and Debugging
+Subprograms, Create, Call, and Remove a Stored Function, advantages
+of using Stored Functions, the steps to create a stored function, Invoke
+User-Defined Functions in SQL Statements, Restrictions when calling
+Functions, Control side effects when calling Functions, View Functions
+Information, debug Functions and Procedures, Packages, advantages of
+Packages, components of a Package, Develop a Package, enable
+visibility of a Package’s Components, Create the Package Specification
+and Body using the SQL CREATE Statement and SQL Developer,
+Invoke the Package Constructs, View the PL/SQL Source Code using
+the Data Dictionary, Deploying Packages, Overloading Subprograms in
+PL/SQL, Use the STANDARD Package, Use Forward Declarations,
+Implement Package Functions in SQL and Restrictions, Persistent State
+of Packages, Persistent State of a Package Cursor, Control side effects
+of PL/SQL Subprograms, Invoke PL/SQL Tables of Records in Packages
+12
+V Dynamic SQL : The Execution Flow of SQL, Declare Cursor Variables,
+Dynamically Executing a PL/SQL Block, Configure Native Dynamic SQL
+to Compile PL/SQL Code, invoke DBMS_SQL Package, Implement
+DBMS_SQL with a Parameterized DML Statement, Dynamic SQL
+Functional Completeness, Triggers, the Triggers, Create DML Triggers
+12
+using the CREATE TRIGGER Statement and SQL Developer, Identify
+the Trigger Event Types, Body, and Firing (Timing), Statement Level
+Triggers and Row Level Triggers, Create Instead of and Disabled
+Triggers, 3 Manage, Test and Remove Triggers. Creating Compound,
+DDL and Event Database Triggers, Compound Trigger Structure for
+Tables and Views, Compound Trigger to Resolve the Mutating Table
+Error, Comparison of Database Triggers and Stored Procedures, Create
+Triggers on DDL Statements, Create Database-Event and
+System-Events Triggers, System Privileges Required to Manage
+Triggers
+Books and References:
+Sr.
+No.
+Title Author/s Publisher Edition Year
+1. Murach’s Oracle
+SQL and PLSQL
+Joel Murach, Murach
+and Associates.
+2. Oracle Database
+11g PL/SQL
+Programming
+Workbook, ISBN
+:
+9780070702264,
+Michael McLaughlin,
+John Harper
+Tata
+McGrawHill.
+3. Oracle PL/SQL
+Programming
+Steven Feuerstein, Bill
+Pribyl
+Fifth
+4. Oracle 11g :
+SQL Reference
+Oracle press Oracle press
+5.
+Oracle 11g :
+PL/SQL
+Reference
+Oracle press Oracle Press.
+6. Expert Oracle
+PL/SQL
+Ron Hardman, Michael
+McLaughlin
+Tata
+McGraw-Hill
+7. Oracle
+database 11g :
+hands on
+SQL/PL SQL
+Satish Asnani (PHI) EEE
+edition
+Course
+Outcome
+● Understand importance of software development using Pl/SQL.
+B. Sc. (Data Science) Semester – III
+Course Name: Technical
+Communication and content writing
+Course Code: TCSCUSDS303
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation
+System
+Theory
+examination
+2 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10
+– Active Participation)
+Course Name: : Technical
+Communication and content writing
+Practical
+Course Code: TCSCUSDSP303
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation
+System
+Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of
+content writing.
+● This course aims to provide the basic understanding of
+technicality in content writing.
+Unit Details Lectures
+I Introduction to Technical Communication:
+What Is Technical Communication? The Challenges of Producing
+Technical Communication, Characteristics of a Technical Document,
+Measures of Excellence in Technical Documents, Skills and Qualities
+Shared by Successful Workplace Communicators, How Communication
+Skills and Qualities Affect Your Career?
+Writing Technical Documents: Planning, Drafting, Revising, Editing,
+and Proofreading.
+Introduction to Content Writing: Types of Content (Article, Blog,
+E-Books, Press Release, Newsletters Etc), Exploring Content
+Publication Channels. Distribution of your content across various
+channels.
+12
+Blog Creation: Understand the psychology behind your web traffic,
+Creating killing landing pages which attract users, Using Landing Page
+Creators, Setting up Accelerated Mobile Pages, Identifying UI UX
+Experience of your website or blog.
+II Writing Collaboratively: Advantages and Disadvantages of
+Collaboration, Managing Projects, Conducting Meetings, Using Social
+Media and Other Electronic Tools in Collaboration, Importance of Word
+Press Website, Gender and Collaboration, Culture and Collaboration.
+Understanding Ethical and Legal Considerations:
+A Brief Introduction to Ethics, Your Ethical Obligations, Your Legal
+Obligations, The Role of Corporate Culture in Ethical and Legal
+Conduct, Understanding Ethical and Legal Issues Related to Social
+Media, Communicating Ethically Across Cultures, Principles for Ethical
+Communication.
+Organizing Your Information: Understanding Three Principles for
+Organizing Technical Information, Understanding Conventional
+Organizational Patterns.
+Emphasizing Important Information: Writing Clear, Informative Titles,
+Writing Clear, Informative Headings, Writing Clear Informative Lists,
+Writing Clear Informative Paragraphs.
+12
+III Creating Graphics: The Functions of Graphics, The Characteristics of
+an Effective Graphic, Understanding the Process of Creating Graphics,
+Using Color Effectively, Choosing the Appropriate Kind of Graphic,
+Creating Effective Graphics for Multicultural Readers.
+Researching Your Subject: Understanding the Differences Between
+Academic and Workplace Research, Understanding the Research
+Process, Conducting Secondary Research, Conducting Primary
+Research,
+Research and Documentation: Literature Reviews, Interviewing for
+Information, Documenting Sources, Copyright, Paraphrasing,
+Questionnaires.
+Report Components: Abstracts, Introductions, Tables of Contents,
+Executive Summaries, Feasibility Reports, Investigative Reports,
+Laboratory Reports, Test Reports, Trip Reports, Trouble Reports
+12
+IV Writing Proposals: Understanding the Process of Writing Proposals,
+The Logistics of Proposals, The “Deliverables” of Proposals, Persuasion
+and Proposals, Writing a Proposal, The Structure of the Proposal.
+Writing Informational Reports: Understanding the Process of Writing
+Informational Reports, Writing Directives, Writing Field Reports, Writing
+Progress and Status Reports, Writing Incident Reports, Writing Meeting
+Minutes. Writing Recommendation Reports: Understanding the Role
+of Recommendation Reports, Using a Problem-Solving Model for
+Preparing Recommendation Reports, Writing Recommendation
+Reports.
+12
+V Reviewing, Evaluating, and Testing Documents and Websites:
+Understanding Reviewing, Evaluating, and Testing, Reviewing
+12
+Documents and Websites, Conducting Usability Evaluations,
+Conducting Usability Tests, Using Internet tools to check writing Quality,
+Duplicate Content Detector, What is Plagiarism?, How to avoid writing
+plagiarism content?
+Making Oral Presentations: Creating presentation materials using
+Prezi, Creating presentation slides and on recording and editing audio
+for recorded,
+Content Writing Tools: Various Content Writing Tools, Reviewing
+Tools, Introduction to HTML
+Books and References:
+Sr.
+No.
+Title Author/s Publisher Editio
+n
+Year
+1. Technical
+Communication
+Mike Markel Bedford/St.
+Martin's
+11 2014
+2. Innovation
+Management and New
+Product Development
+Paul Trott Pearson 06 2017
+3. Handbook of Technical
+Writing
+Gerald J.
+Alred , Charles T.
+Brusaw , Walter E.
+Oliu
+Bedford/St.
+Martin's
+09 2008
+4. Technical Writing 101:
+A Real-World Guide to
+Planning and Writing
+Technical Content
+Alan S. Pringle and
+Sarah S. O'Keefe
+scriptorium 03 2009
+Course
+Outcome
+● Understand importance of technical content writing
+B. Sc. (Data Science) Semester – III
+Course Name: Ad. R Programming Course Code: TCSCUSDS304
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation
+System
+Theory
+Examination
+2½ 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10 –
+Active Participation)
+Course Name: Ad. R Programming
+Practical
+Course Code: TCSCUSDSP304
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation
+System
+Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of Advance R
+Programming.
+● Understanding the importance of Data science advance level
+concepts using R.
+Unit Details Lectures
+I Foundation: Data structures In R Vectors, Atomic vectors, Lists,
+Attributes, Factors, Matrices and arrays, Data frames.
+Subsetting: Subsetting operators, subsetting and assignment,
+Applications
+Vocabulary: The basics, Common data structures, Statistics, Working
+with R, I/O, Style guide: Notation and naming, Syntax, Organisation,
+12
+II Functions:, Function components, Lexical scoping, Special calls,
+Function arguments, Special calls.
+OO field guide: S3,S4, RC, Picking a system, Environments
+Environments: Environment basics, Recursing over environments,
+Function environments, Binding names to values, Explicit environments
+Debugging, condition handling, and defensive programming :
+Debugging techniques, Condition handling, Debugging tools, Defensive
+programming
+12
+III Functional programming: Anonymous functions, Closures, Lists of
+functions,
+Functionals: lapply(), Loop functionals: friends of lapply(),
+Manipulating matrices and data frames, Manipulating lists,
+Mathematical functional.
+Function operators: Behavioural FOs, Input / Output FOs, Combining
+FOs
+Computing on the language Non-standard evaluation, Non-standard
+evaluation in subset, Calling from another function, Substitute.
+12
+IV Expressions Structure of expressions, Names, Calls, Capturing the
+current call, Pairlists, Parsing and deparsing, Walking the AST with
+recursive functions
+Domain specific languages HTML, LaTeX, Customizing graphics
+Recommender System understanding recommender system,
+collaborative filtering recommender system, Content based
+recommender system, Knowledge-based recommender system,
+R-package for recommendation , Data exploration, data preparation,
+Evaluating recommender system
+12
+V Clustering Non-hierarchical clustering (k-means), Hierarchical
+Classification (dendogram), Comparing those two methods, Density
+estimation.
+Performance Implementation performance, Language performance,
+Implementation performance, Alternative R implementations
+Optimizing code: Memory, High performance functions with Rcpp,
+Getting started with C++, Attributes and other classes, R’s C interface,
+The STL, Rcpp sugar
+12
+Books and References:
+Sr. No. Title Author/s Publisher Edition Year
+1 Advanced R John M.
+Chambers
+Torsten Hothorn
+Hadley Wickham
+CRCpress
+Chapman
+&
+Hall/CRC
+First 2015
+2 Building a Recommendation
+System with R
+Suresh
+K. Gorakala,
+Michele Usuelli
+Packt
+Publishing
+Ltd
+First 2015
+Doing Data Science Rachel Schutt
+and Cathy O’Neil
+O’Reilly First 2013
+Course
+Outcome
+● Understand importance of Advance R Programming.
+● Analyze data using Advance R Concepts.
+B. Sc. (Data Science) Semester – III
+Course Name: Data Structures and
+Algorithm
+Course Code: TCSCUSDS305
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation
+System
+Theory
+Examination
+2½ 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10 –
+Active Participation)
+Course Name: Data Structures and
+Algorithms Practical
+Course Code: TCSCUSDSP305
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation
+System
+Practical
+Examination
+2½ 50
+Internal -- --
+Unit
+Details Lecture
+s
+I Introduction:
+Data and Information, Data Structure, Classification of Data Structures,
+Primitive Data Types, Abstract Data Types, Data structure vs. File
+Organization, Operations on Data Structure, Algorithm, Importance of
+Algorithm Analysis, Complexity of an Algorithm, Asymptotic Analysis and
+Notations, Big O Notation, Big Omega Notation, Big Theta Notation, Rate of
+Growth and Big O Notation.
+Array:
+Introduction, One Dimensional Array, Memory Representation of One
+Dimensional Array, Traversing, Insertion, Deletion, Searching, Sorting,
+Merging of Arrays, Multidimensional Arrays, Memory Representation of Two
+Dimensional Arrays, General Multi-Dimensional Arrays, Sparse Arrays,
+Sparse Matrix, Memory Representation of Special kind of Matrices,
+Advantages and Limitations of Arrays.
+12
+II Linked List:
+Linked List, One-way Linked List, Traversal of Linked List, Searching,
+Memory Allocation and De-allocation, Insertion in Linked List, Deletion from
+Linked List, Copying a List into Other List, Merging Two Linked Lists,
+Splitting a List into Two Lists, Reversing One way linked List, Circular Linked
+List, Applications of Circular Linked List, Two way Linked List, Traversing a
+Two way Linked List, Searching in a Two way linked List, Insertion of an
+element in Two way Linked List, Deleting a node from Two way Linked List,
+Header Linked List, Applications of the Linked list, Representation of
+Polynomials, Storage of Sparse Arrays, Implementing other Data Structures.
+12
+III Stack:
+Introduction, Operations on the Stack Memory Representation of Stack,
+Array Representation of Stack, Applications of Stack, Evaluation of
+Arithmetic Expression, Matching Parenthesis, infix and postfix operations,
+Recursion.
+12
+Queue:
+Introduction, Queue, Operations on the Queue, Memory Representation of
+Queue, Array representation of queue, Linked List Representation of
+Queue, Circular Queue, Some special kinds of queues, Deque, Priority
+Queue, Application of Priority Queue, Applications of Queues.
+IV Sorting and Searching Techniques
+Bubble, Selection, Insertion, Merge Sort. Searching: Sequential, Binary,
+Indexed Sequential Searches, Binary Search.
+Tree: Tree, Binary Tree, Properties of Binary Tree, Memory Representation
+of Binary Tree, Operations Performed on Binary Tree, Reconstruction of
+Binary Tree from its Traversals, Huffman Algorithm, Binary Search Tree,
+Operations on Binary Search Tree, Heap, Memory Representation of Heap,
+Operation on Heap, Heap Sort.
+Advanced Tree Structures: Red Black Tree, Operations Performed on Red
+Black Tree, AVL Tree, Operations performed on AVL Tree, 2-3 Tree, B-Tree.
+12
+V Hashing Techniques
+Hash function, Address calculation techniques, Common hashing functions
+Collision resolution, Linear probing, Quadratic, Double hashing, Bucket
+hashing, Deletion and rehashing
+Graph: Introduction, Graph, Graph Terminology, Memory Representation of
+Graph, Adjacency Matrix Representation of Graph, Adjacency List or Linked
+Representation of Graph, Operations Performed on Graph, Graph
+Traversal, Applications of the Graph, Reachability, Shortest Path Problems,
+Spanning Trees.
+12
+Books and References:
+Sr.
+No.
+Title Author/s Publishe
+r
+Edition Year
+1. A Simplified
+Approach to
+Data Structures
+Lalit Goyal, Vishal Goyal, Pawan
+Kumar
+SPD 1st 2014
+2. An Introduction
+to Data Structure
+with Applications
+Jean – Paul Tremblay and Paul
+Sorenson
+Tata
+MacGraw
+Hill
+2nd 2007
+3. Data Structure
+and Algorithm
+Maria Rukadikar SPD 1st 2017
+4. Schaum’s
+Outlines Data
+structure
+Seymour Lipschutz Tata
+McGraw
+Hill
+2nd 2005
+5. Data structure –
+A Pseudocode
+Approach with C
+AM Tanenbaum, Y Langsam
+and MJ Augustein
+Prentice
+Hall India
+2nd 2006
+6. Data structure
+and Algorithm
+Analysis in C
+Weiss, Mark Allen Addison
+Wesley
+1st 2006
+Course
+Outcome
+● Understand importance of Data Structures and algorithms in Data
+applications.
+B. Sc. (Data Science) Semester – IV
+Course Name: Statistical Simulation
+and Multivariate Analysis
+Course Code: TCSCUSDS401
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation
+System
+Theory
+examination
+2 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10
+– Active Participation)
+Course Name: Statistical Simulation
+and Multivariate Analysis Practical
+Course Code: TCSCUSDSP401
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation
+System
+Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of
+simulation using statistical techniques.
+● This course aims to provide the basic understanding of
+multivariate analysis
+Unit Details Lecture
+s
+I Simulation Using the computer for random number generation. (treated
+as a black box), A brief look at some popular approaches (no
+mathematical justification needed). Simulating a coin toss, a die roll and
+a card shuffle.
+12
+II CDF inversion method. Simulation from standard distributions. Finding
+probabilities and moments using simulation.
+12
+III Monte Carlo integration. Basic idea of importance sampling. MCMC not
+included. Generating from Binomial and Poisson distributions, and
+comparing the histograms to the PMFs. Generating from Uniform (0,1)
+distribution, and applying inverse CDF transforms. Simulating Gaussian
+distribution using Box-Muller method. Approximating the expectation of a
+given function of a random variable using simulation.
+12
+IV Multivariate Data: multiple regression, multiple and partial correlation
+coefficients. Random Vector: Probability mass/density functions,
+Distribution function, mean vector & Dispersion matrix, Marginal &
+Conditional distributions. Multiple and partial correlation coefficient.
+12
+V Multivariate Normal distribution and its properties. Multinomial
+Distribution and its properties. Tests for Multiple and partial correlation
+coefficients. Applications of Multivariate Analysis: Principal Components
+Analysis and Factor Analysis (Application Oriented discussion,
+derivations not required)
+12
+Books and References:
+Sr.
+No.
+Title Author/s Publisher Editio
+n
+Year
+1 Explorations in Monte
+Carlo Methods
+(Undergraduate Texts
+in Mathematics)
+Shonkwiler,
+Ronald W. and
+Mendivil, Franklin
+Springer-Verlag
+New York
+2009
+2 Monte Carlo
+Simulation and
+Re-sampling Methods
+for Social Science.
+Carsey, Thomas
+M. and Harden,
+Jeffrey J.
+icpsr.umich.edu 2014
+3 Multivariate Analysis Kshirsagar, A.M. Marcel Dekker 1st 1972
+4 Applied Multivariate
+Analysis,
+Johnson, R.A. And
+Wichern, D.W.
+Pearson &
+Prentice Hall
+6th
+5 An Introduction to
+Multivariate Statistical
+Analysis
+Anderson, T.W. John Wiley 3 rd 2003
+6 Aspects of Multivariate
+Statistical Theory
+Robb J. Muirhead John Wiley. 1982
+7 Fundamentals of
+Statistics, Vol. I
+Goon, A.M.,
+Gupta, M.K. and
+Dasgupta, B.
+Edn. The World
+Press, Kolkata.
+8th 2002
+Course
+Outcome
+● Understand importance of simulation using statistics.
+B. Sc. (Data Science) Semester – IV
+Course Name: Data Ware housing
+and Data mining
+Course Code: TCSCUSDS402
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation
+System
+Theory
+examination
+2 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10
+– Active Participation)
+Course Name: Data Ware housing
+and Data mining Practical
+Course Code: TCSCUSDSP402
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation
+System
+Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of Data
+Warehousing.
+● This course aims to provide the basics understanding of Data
+Mining.
+Unit Details Lecture
+s
+I Data warehousing Components –Building a Data warehouse –- Mapping
+the Data Warehouse to a Multiprocessor Architecture – DBMS Schemas
+12
+for Decision Support – Data Extraction, Cleanup, and Transformation
+Tools –Metadata.
+II Reporting and Query tools and Applications – Tool Categories – The
+Need for Applications – Cognos Impromptu – Online Analytical
+Processing (OLAP) – Need – Multidimensional Data Model – OLAP
+Guidelines – Multidimensional versus Multirelational OLAP – Categories
+of Tools – OLAP Tools and the Internet.
+12
+III Introduction – Data – Types of Data – Data Mining Functionalities –
+Interestingness of Patterns – Classification of Data Mining Systems –
+Data Mining Task Primitives – Integration of a Data Mining System with a
+Data Warehouse – Issues –Data Pre-processing.
+12
+IV Mining Frequent Patterns, Associations and Correlations – Mining
+Methods – Mining various Kinds of Association Rules – Correlation
+Analysis – Constraint Based Association Mining – Classification and
+Prediction – Basic Concepts – Decision Tree Induction – Bayesian
+Classification – Rule Based Classification – Classification by Back
+propagation – Support Vector Machines – Associative Classification –
+Lazy Learners – Other Classification Methods – Prediction.
+12
+V Cluster Analysis – Types of Data – Categorization of Major Clustering
+Methods – K-means– Partitioning Methods – Hierarchical Methods –
+Density-Based Methods –Grid Based Methods – Model-Based Clustering
+Methods – Clustering High Dimensional Data – Constraint – Based
+Cluster Analysis – Outlier Analysis – Data Mining Applications.
+12
+Books and References:
+Sr.
+No.
+Title Author/s Publisher Editio
+n
+Year
+1. Data Warehousing,
+Data Mining and OLAP
+Alex Berson and
+Stephen J.Smith
+Tata McGraw –
+Hill
+Thirtee
+nth
+2008
+2. Data Mining Concepts
+and Techniques
+Jiawei Han and
+Micheline Kamber
+Elsevier, Third 2012
+3. Introduction to Data
+Mining
+Pang-Ning Tan,
+Michael Steinbach
+and Vipin Kumar
+Person
+Education
+2007
+4. Insight into Data
+Mining Theory and
+Practice
+K.P. Soman,
+Shyam Diwakar
+and V. Aja
+Prentice Hall of
+India
+2006
+5. Introduction to Data
+Mining with Case
+Studies
+G. K. Gupta Prentice Hall of
+India
+2006
+6. Data Mining Methods
+and Models
+Daniel T.Larose Wiley-Interscienc
+e
+2006
+Course
+Outcome
+● Understand importance of data warehousing and mining.
+B. Sc. (Data Science) Semester – IV
+Course Name: Agile Software
+Engineering
+Course Code: TCSCUSDS403
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation
+System
+Theory
+examination
+2 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10
+– Active Participation)
+Course Name: : Agile Software
+Engineering Practical
+Course Code: TCSCUSDSP403
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation
+System
+Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of
+software development life cycle.
+● This course aims to provide the basics understanding of
+project management.
+Uni
+t
+Details Lectures
+I Introduction: What is software engineering? Software Development Life
+Cycle, Requirements Analysis, Software Design, Coding, Testing,
+Maintenance etc.
+12
+Software Requirements: Functional and Non-functional requirements,
+User Requirements, System Requirements, Interface Specification,
+Documentation of the software requirements.
+Software Processes: Process and Project, Component Software
+Processes.
+Software Development Process Models: Waterfall Model, Prototyping,
+Iterative Development, Rational Unified Process, The RAD Model, Time
+boxing Model,
+Agile software development: Agile methods, Plan-driven and agile
+development, Extreme programming, Agile project management, Scaling
+agile methods.
+II Socio-technical system : Essential characteristics of socio technical
+systems, Emergent System Properties, Systems Engineering,
+Components of system such as organization, people and computers,
+Dealing Legacy Systems.
+Critical system: Types of critical system, A simple safety critical system,
+Dependability of a system, Availability and Reliability, Safety and Security
+of Software systems.
+System Models : Models and its types, Context Models, Behavioural
+Models, Data Models, Object Models, Structured Methods.
+Architectural Design: Architectural Design Decisions, System
+Organization, Modular Decomposition Styles, Control Styles, Reference
+Architectures.
+12
+III Introduction to Software Project Management:
+Introduction, Why is Software Project Management Important? What is a
+Project? Software Projects versus Other Types of Project, Contract
+Management and Technical Project Management, Activities Covered by
+Software Project Management, Plans, Methods and Methodologies,
+Some Ways of Categorizing Software Projects, Project Charter,
+Stakeholders, Setting Objectives, The Business Case, Project Success
+and Failure, What is Management? Management Control, Project
+Management Life Cycle, Traditional versus Modern Project Management
+Practices.
+Project Evaluation and Program Management:
+Introduction, Business Case, Project Portfolio Management, Evaluation of
+Individual Projects, Cost–benefit Evaluation Techniques, Risk Evaluation,
+Program Management, Managing the Allocation of Resources within
+Programs, Strategic Program Management, Creating a Program, Aids to
+Program Management, Some Reservations about Program Management,
+Benefits Management.
+Working in Teams: Introduction, Becoming a Team, Decision Making,
+Organization and Team Structures, Coordination Dependencies,
+Dispersed and Virtual Teams, Communication Genres, Communication
+Plans, Leadership.
+12
+IV Selection of an Appropriate Project Approach: 12
+Introduction, Build or Buy? Choosing Methodologies and Technologies,
+Software Processes and Process Models, Choice of Process Models,
+Atern/Dynamic Systems Development Method, Scrum, Lean Software
+Development, Managing Iterative Processes, Selecting the Most
+Appropriate Process Model.
+User Interface Design: Need of UI design, Design issues, The UI design
+Process, User analysis, User Interface Prototyping, Interface Evaluation.
+Software Quality: Introduction, The Place of Software Quality in Project
+Planning, Importance of Software Quality, Defining Software Quality,
+Software Quality Models, ISO 9126, Product and Process Metrics,
+Product versus Process Quality Management, Quality Management
+Systems, Process Capability Models, Techniques to Help Enhance
+Software Quality, Testing, Software Reliability, Quality Plans, Software
+Measurement and Metrics.
+Verification and Validation: Planning Verification and Validation,
+Software Inspections, Automated Static Analysis, Verification and Formal
+Methods. Software Testing: System Testing, Component Testing, Test
+Case Design, Test Automation.
+V Process Improvement: Process and product quality, Process
+Classification, Process Measurement, Process Analysis and Modeling,
+Process Change, The CMMI Process Improvement Framework.
+Service Oriented Software Engineering : Services as reusable
+components, Service Engineering, Software Development with Services.
+Software reuse: The reuse landscape, Application frameworks, Software
+product lines, COTS product reuse.
+Distributed software engineering: Distributed systems issues,
+Client–server computing, Architectural patterns for distributed systems,
+Software as a service
+12
+Books and References:
+Sr. No. Title Author/s Publisher Edition Year
+1. Software Engineering Ian Somerville Pearson
+Education
+9th 2011
+2. Software Project
+Management
+Bob Hughes, Mike
+Cotterell, Rajib
+Mall
+TMH 6th 2018
+Course
+Outcome
+● Understand importance of software engineering and project
+development life cycle.
+B. Sc. (Data Science) Semester – IV
+Course Name: Advance Python
+Programming
+Course Code: TCSCUSDS405
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation
+System
+Theory
+examination
+2 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10
+– Active Participation)
+Course Name: Advance Python
+Programming Practical
+Course Code: TCSCUSDSP405
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation
+System
+Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of
+advanced features of Python.
+● This course aims to provide the basic understanding of project
+development using Python.
+Unit Details Lecture
+s
+I Sets in Python:What is a set?, Creating and initializing a set, List vs Set,
+Creating an empty set, Adding values in set, Removing values from set,
+Iterating through a set, Set membership test, Methods of set, Union
+operation, Intersect operation, Difference operation, Symmetric operation.
+FrozenSet in Python: Usage, Difference between Set and FrozenSet,
+Operations and methods of frozen set.
+Python Lambda Functions: Introduction, Need and Usage of lambda
+function, Passing arguments to lambda function, Using lambda function
+with filter, map, reduce.
+12
+II NumPY Library: Introduction, Setup and use numpy module, Ndarray
+Object, Data types, Array Attributes, Creating NumPy arrays, Creating
+array from existing data and from numerical values, Indexing and slicing,
+Iterating over array, Broadcasting of arrays, Array manipulation,
+12
+Mathematical functions, String functions, Arithmetic functions, Statistical
+Functions, Sort, Search and Count operations using Numpy. File I/O with
+Numpy.
+SciPY library: Introduction, Setup and use scipy module, SciPy
+sub-packages: Constants package, FFT package, Interpolate package,
+Linalg package, NdImage package, Special package.
+III Matplotlib Library: Introduction, Setup and use Matplotlib module, 2D
+visualization using library, create bar graph, create histogram, create
+scatter plot, create area plot, create pie chart.
+Seaborn Library: Introduction, Difference between Matplotlib and
+Seaborn library, relplot functions, categorical plots, multi-plot grids, using
+color palettes.
+12
+IV Pandas Library: Different Data Structures in Pandas, Creating series
+using various datasets, Creating data frame using various datasets,
+Creating panel in different ways, Basic operations on different data
+structure, Summarizing data and Descriptive statistics, Iteration of data
+structures, Sort operations, Windows functions, Aggregation, Handling
+Missing Data, Group By, Merging Data.
+12
+V Socket Programming: Introduction to Sockets, Client, Servers. Socket
+Module, Creating a simple client- server application using socket
+programming.
+Sending Email in Python: Introduction of SMTP, Configure sender &
+receiver, Sending simple email, Sending HTML text in email, Adding
+attachments in email.
+12
+Books and References:
+Sr.
+No.
+Title Author/s Publisher Editio
+n
+Year
+1. Core Python
+Programming
+R. Nageswara
+Rao
+Dreamtech 2nd 2018
+2. Python for Data
+Analysis
+Wes McKinney O’Reilly 2nd 2018
+3. Python Crash Course Eric Matthes William Pollock 2nd 2019
+4. Let Us Python Yashavant
+Kanetkar
+Aditya Kanetkar
+BPB 1st 2019
+5. Python for Data
+Science for Dummies
+John Paul Mueller O’Reilly 2nd 2019
+6. Programming Python Mark Lutz O’Reilly 3rd 2018
+7. Learning Python
+Network Programming
+Dr. M.O. Faruque
+Sarkar
+O’Reilly 1st 2015
+Course
+Outcome
+● Understand importance of advanced features of Python.
+B. Sc. (Data Science) Semester – IV
+Course Name: Data Visualization
+and Data Preparation
+Course Code: TCSCUSDS405
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation
+System
+Theory
+Examination
+2½ 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10 –
+Active Participation)
+Course Name: Data Visualization
+and Data Preparation Practical
+Course Code: TCSCUSDSP405
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation
+System
+Practical
+Examination
+2½ 50
+Internal -- --
+Objectives 1. This course aims to provide conceptual understanding of Data
+visualization techniques.
+2. This course aims to provide the basic understanding of data in
+business intelligence.
+Unit Details Lecture
+s
+I The Importance of Data Visualization in Business Intelligence:
+Shifting from Input to Output, Why Is Data Visualization Important? Why
+Do Modern Businesses Need Data Visualization? The Future of Data
+Visualization, How Data Visualization Is Used for Business
+Decision-Making, Introducing Data Visualization Techniques, Introducing
+Plots in Python.
+Data Collection Structures: Lists, Dictionaries, Tuples, Series, Data
+Frames, Panels.
+12
+File I/O Processing and Regular Expressions: File I/O Processing,
+Regular Expressions.
+II Data Gathering and Cleaning:
+Cleaning Data , Checking for Missing Values ,Handling the Missing
+Values, Reading and Cleaning CSV Data ,Merging and Integrating Data,
+Reading Data from the JSON Format, Reading Data from the HTML
+Format , Reading Data from the XML Format,
+Data Exploring and Analysis: Series Data Structures, Data Frame
+Data Structures, Data Analysis.
+The Basics of Data Exploration and Visualization with R: Installing
+and loading tidyverse, Loading and examining a dataset, Filtering a
+dataset, Grouping and summarizing a dataset, Plotting a dataset,
+12
+III Loading Data into R:Loading a csv file with read.table(), Loading a csv
+file with read.csv() Loading a tab delimited file with read.table(), Using
+readr to load data.
+Transforming Data: Filtering records to create a subset, Narrowing the
+list of columns with select(), Arranging Rows, Adding Rows with
+mutate(), Summarizing and Grouping, Piping, Challenge.
+Creating Tidy Data : Gathering, Spreading, Separating, Uniting.
+12
+IV Basic Data Exploration Techniques in R
+Measuring Categorical Variation with a Bar Chart, Measuring
+Continuous Variation with a Histogram, Measuring Covariation with Box
+Plots, Measuring Covariation with Symbol Size, 2D bin and hex charts,
+Generating Summary Statistics.
+Basic Data Visualization Techniques
+Creating a scatterplot, Adding a regression line to the scatter plot,
+Plotting categories, Labeling the graph, Legend layouts, Creating a
+facet, Theming, Creating bar charts, Creating Violin Plots, Creating
+density plots, Direct Plotting, Seaborn Plotting System, Matplotlib Plot.
+12
+V Visualizing Geographic Data with ggmap: Creating a basemap,
+Adding operational data layers, Adding Layers from Shapefiles.
+R Markdown: Creating an R Markdown file, Adding Code Chunks and
+Text to an R Markdown File, Code chunk and header options, Caching,
+Using Knit to output an R Markdown file.
+Case Study – Wildfire Activity in the Western United States.
+Case Study – Single Family Residential Home and Rental Values.
+12
+Books and References:
+Sr.
+No.
+Title Author/s Publishe
+r
+Edition Year
+1. Data Analysis and
+Visualization Using
+Dr. Ossama
+Embarak
+Apress First 2018
+Python
+2. Introduction to Data
+Visualization
+and Exploration with R
+Eric Pimpler Geospati
+al
+Training
+Services
+First 2017
+Course
+Outcome
+● Understand importance of data in business intelligence.

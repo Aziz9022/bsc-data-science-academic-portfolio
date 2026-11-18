@@ -1,0 +1,57 @@
+FILE: BSc_Syllabus_Analysis_Stage2.xlsx
+WORKBOOK SHEETS: Subject Credit Matrix, Workload Evidence, Source Reconciliation, Admissions Notes
+
+====================================================================================================
+SHEET: Subject Credit Matrix
+====================================================================================================
+A1: Academic area | B1: Mapped transcript courses | C1: Theory credits | D1: Practical credits | E1: Total credits | F1: Syllabus topics evidenced | G1: Caveat
+A2: Mathematics | B2: Linear Algebra and Basics of Calculus | C2: 2 | D2: 2 | E2: 4 | F2: Matrices, determinants, rank, linear systems, eigenvalues/eigenvectors, vector spaces, linear independence, partial derivatives, Jacobian/Hessian, beta/gamma functions, double/triple integration. | G2: One explicit mathematics course pair; no standalone discrete mathematics course identified.
+A3: Probability and Statistics | B3: Probability and Statistics; Sampling & Descriptive Statistics; Statistical Simulation and Multivariate Analysis | C3: 6 | D3: 6 | E3: 12 | F3: Probability axioms, conditional probability, random variables, binomial/normal distributions, expectation, estimation, confidence intervals, hypothesis tests, t/F/chi-square tests, correlation/regression, sampling designs, time series, Monte Carlo simulation, multivariate normal, PCA and factor analysis. | G3: Broad applied coverage; some simulation and multivariate topics are explicitly application-oriented.
+A4: Algorithms and Data Structures | B4: Data Structures and Algorithm | C4: 2 | D4: 2 | E4: 4 | F4: Asymptotic analysis, Big-O/Ω/Θ, arrays, linked lists, stacks, queues, sorting/searching, trees, heaps, hashing, graphs, shortest paths and spanning trees. | G4: Strong direct evidence in syllabus.
+A5: Programming and Software Development | B5: C; C++; Python I; Advanced Python; Advanced R; Enterprise Java | C5: 12 | D5: 12 | E5: 24 | F5: Procedural C, pointers, structures, recursion; OOP C++, inheritance, polymorphism, templates; Python data structures, files, OOP, threads, NumPy, SciPy, Pandas, visualization, sockets; R functional programming, environments, clustering, Rcpp; Java EE, servlets, JSP, EJB, JDBC, JPA, Hibernate. | G5: Do not assume practical course content independently duplicates all theory content.
+A6: Database Systems | B6: DBMS; Advanced SQL | C6: 4 | D6: 4 | E6: 8 | F6: ER modelling, relational schemas, normalization, relational algebra/calculus, SQL, joins, subqueries, transactions, ACID, concurrency control, PL/SQL, cursors, stored procedures, packages and triggers. | G6: Clear database foundations and advanced SQL/PLSQL.
+A7: Operating Systems and Systems | B7: Operating Systems | C7: 2 | D7: 2 | E7: 4 | F7: Processes, threads, IPC, scheduling, virtual memory, paging, file systems, I/O, deadlocks, virtualization, hypervisors, multiprocessors, multicomputers and distributed systems. | G7: Distributed systems appears within OS, not as a dedicated course.
+A8: Data Engineering / Big Data | B8: Data Warehousing and Data Mining; Big Data Analytics using Hadoop | C8: 4 | D8: 4 | E8: 8 | F8: Warehouse architecture, ETL, extraction/cleanup/transformation, metadata, OLAP, preprocessing, association rules, classification, clustering, Hadoop, HDFS, MapReduce, Spark/PySpark, Hive, HBase, Sqoop and Flume. | G8: Strong big-data analytics coverage; syllabus is not exclusively data engineering.
+A9: AI and Machine Learning | B9: Artificial Intelligence; Machine Learning | C9: 4 | D9: 4 | E9: 8 | F9: AI agents, search, heuristics, adversarial search, propositional/first-order logic, inference, planning, knowledge representation; ML classification/regression, clustering, ensembles, online learning, deep learning and reinforcement learning. | G9: Full ML syllabus section needs a final focused verification.
+A10: Data Analytics and Visualization | B10: Basics of Data Science; Data Analysis using Spreadsheet; Data Visualization and Data Preparation; Business Intelligence and Data Visualization using Tableau/Power BI | C10: 8 | D10: 8 | E10: 16 | F10: Data science foundations, scraping, text preprocessing/classification, Excel data handling, descriptive statistics, data cleaning, missing values, CSV/JSON/XML, tidy data, exploratory analysis, visualization, BI architecture and decision support. | G10: Syllabus titles differ slightly from transcript titles.
+A11: Software Engineering / Project Management | B11: Agile Software Engineering; Software Project Management; Project Implementation | C11: 4 | D11: 4 | E11: 8 | F11: SDLC, requirements, process models, agile/Scrum, architecture, testing, quality, verification/validation, project planning, estimation, scheduling, critical path, risk, resource allocation, monitoring and project closeout. | G11: Transcript Project Implementation is not automatically equivalent to syllabus Project Stage I or Stage II.
+A12: Cloud / Distributed / IoT | B12: Cloud Computing; Internet of Things | C12: 4 | D12: 4 | E12: 8 | F12: Parallel/distributed computing, virtualization, cloud models, scaling, load balancing, storage, cloud security, IAM, SLAs; IoT protocols, TCP/IP, sensors, actuators, microcontrollers, Arduino/Raspberry Pi, APIs, MQTT and embedded systems. | G12: IoT is described as Elective-II in syllabus but appears as a transcript course.
+A13: Communication / General / Interdisciplinary | B13: Communication Skills in English; Technical Communication and Content Writing; Business Ethics and Environmental Science; Knowledge Management | C13: 8 | D13: 8 | E13: 16 | F13: Business/technical communication, documentation, reports, research, ethics, environmental studies; knowledge management cycles, knowledge capture/codification, repositories and BI relationships. | G13: Knowledge Management is presented as an elective in the syllabus.
+
+====================================================================================================
+SHEET: Workload Evidence
+====================================================================================================
+A1: Item | B1: Syllabus statement | C1: What can safely be derived | D1: Not established
+A2: Theory pattern | B2: 5 periods/week; one period = 50 minutes | C2: 5 × 50 = 250 minutes (4h10m) scheduled theory per week. | D2: Number of teaching weeks and total semester contact hours.
+A3: Theory unit structure | B3: Usually five units, 12 lectures per unit | C3: Where all five units are listed: 60 lectures × 50 minutes = 50 hours of listed theory lecture content. | D3: Actual delivery and independent study workload.
+A4: Practical pattern | B4: 3 periods/week; 10 practicals covering syllabus | C4: Practical course separately listed, generally 2 institutional credits. | D4: Duration of each practical session and total lab contact hours.
+A5: Assessment | B5: Theory exam commonly 2 or 2.5 hours; practical exam 2.5 hours | C5: Exam duration is assessment information only. | D5: Cannot be treated as total course workload.
+A6: Credit system | B6: Theory 2 credits; corresponding practical 2 credits | C6: Preserve the institutional CBCS credits and separate theory/practical records. | D6: No verified conversion to ECTS.
+A7: Independent study | B7: Not specified in extracted syllabus | C7: No defensible estimate can be made. | D7: Self-study, assignments and total workload.
+
+====================================================================================================
+SHEET: Source Reconciliation
+====================================================================================================
+A1: Issue | B1: Transcript | C1: Syllabus | D1: Treatment
+A2: Semester I title | B2: Introduction to Data Science | C2: Basics of Data Science | D2: Preserve transcript title; cross-reference syllabus title as likely version/title difference.
+A3: Course codes | B3: UGDS... codes | C3: TCSCUSDS... / TCSCUSDSP... codes | D3: Do not replace transcript codes with syllabus codes without official crosswalk.
+A4: Semester II Probability code | B4: UGDS3PAS0420 | C4: TCSCUSDS204 | D4: Preserve transcript code and flag prefix anomaly.
+A5: Semester IV codes | B5: Two distinct transcript course entries | C5: Syllabus extraction shows both Advanced Python and Data Visualization as 405 / DSP405 | D5: Syllabus itself has a code collision; request college clarification.
+A6: Semester V project/seminar | B6: Transcript has 10 entries including practicals | C6: Syllabus lists Project Stage I and Seminar Stage I | D6: Mapping between practical entries and project/seminar components is unclear.
+A7: Semester V elective | B7: Business Ethics and Environmental Science | C7: Syllabus offers Marketing and Retail Analytics OR Business Ethics and Environmental Science | D7: Transcript identifies Business Ethics option; do not count Marketing elective.
+A8: Semester VI electives | B8: Knowledge Management and Internet of Things | C8: Syllabus describes Elective I and Elective-II | D8: Verify elective arrangement applicable to cohort.
+A9: Semester VI project | B9: Project Implementation, 2 credits | C9: Overview mentions Internship/Project Stage-II | D9: Do not assume equivalence without official documentation.
+A10: Semester VI heading | B10: Transcript says Semester VI | C10: Some syllabus text labels Cloud Computing / Enterprise Java section Semester IV | D10: Likely document labelling error; verify official PDF.
+
+====================================================================================================
+SHEET: Admissions Notes
+====================================================================================================
+A1: Area | B1: Evidence from syllabus | C1: Preliminary implication
+A2: Mathematics | B2: One course pair covering linear algebra and multivariable calculus/integration. | C2: May be a limitation where programmes require substantial mathematics credits.
+A3: Probability & Statistics | B3: Three course pairs covering probability, inference, sampling, regression, simulation and multivariate methods. | C3: One of the strongest documented areas.
+A4: Theoretical CS | B4: Algorithms/data structures and logic/search within AI; no explicit automata/formal languages/computability course identified. | C4: Potential gap for CS-heavy programmes.
+A5: Programming | B5: Multiple languages and associated practical courses. | C5: Broad programming exposure; practical-credit treatment varies by university.
+A6: Databases / Data Engineering | B6: DBMS, advanced SQL/PLSQL, warehousing, Hadoop/Spark ecosystem. | C6: Relevant coverage; distinguish database theory from analytics tooling.
+A7: AI / ML | B7: Dedicated AI and ML courses plus BI/data mining coverage. | C7: Depth and mathematical foundations need closer inspection.
+A8: Cloud / distributed | B8: Cloud course plus distributed-systems topics in OS and IoT. | C8: Some coverage, but not necessarily equivalent to a dedicated distributed-systems module.
+A9: ECTS | B9: Workload data incomplete. | C9: Do not present any conversion as official or definitive.

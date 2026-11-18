@@ -1,0 +1,444 @@
+# **Academic Transcript Extraction — B.Sc. Data Science**
+
+I examined the uploaded **6-page transcript PDF** from beginning to end, including the individual semester marksheets and the transcript certificate.
+
+The transcript contains six semesters, with **10 course entries per semester**, including theory courses and practical courses. The semester-wise results and the final CGPA are visible in the document.
+
+A few important observations before the full record:
+
+- The transcript uses **Credits Earned (C)**, **Grade Points (G)**, **CG = C × G**, and **SGPI**.
+- Each semester shows 20 credits earned.
+- Practical courses are listed separately from their corresponding theory courses.
+- The transcript uses letter grades such as `O`, `A+`, `A`, `B+`, `B`, and `D`.
+- Marks include unusual notation such as `37@3` and `77@3`; I have preserved that notation rather than silently interpreting it.
+- The transcript does **not** state maximum marks per course in a separate column.
+- The official final CGPA printed on the last semester's transcript is **8.85**.
+
+## **Download the complete structured record**
+
+I created an Excel workbook containing the extracted academic record, with separate sheets for the course inventory, semester summary, degree information, subject classifications, institutional credit distribution, discrepancy report, and consolidated machine-readable dataset.
+
+**Transcript_Extracted_Academic_Record.xlsx**
+
+60 course entries · 7 worksheets · Excel format
+
+Download the complete academic record workbook
+
+# **Part 1 — Student and Degree Information**
+
+| Field                    | Extracted Information                                                                                                       | Source Page | Remarks                                                          |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------------------------------- |
+| Student's full name      | Kanoor Abdulaziz Mehmood Dilshad                                                                                            | 1–6         | As printed                                                       |
+| University               | University of Mumbai                                                                                                        | 1           | College is described as permanently affiliated                   |
+| College                  | Thakur College of Science & Commerce                                                                                        | 1–6         | College name appears on marksheets                               |
+| Degree title             | Bachelor of Science (Data Science)                                                                                          | 1–6         | Exact programme title                                            |
+| Specialisation           | Data Science                                                                                                                | 1–6         | Included in programme name                                       |
+| Degree duration          | Not stated in transcript                                                                                                    | —           | Cannot establish from this document alone                        |
+| Admission year           | Not stated                                                                                                                  | —           |                                                                  |
+| Graduation year          | 2025                                                                                                                        | 1, 6        | Certificate dated 16.10.2025; Semester VI examination April 2025 |
+| Examination sessions     | Regular November 2022; Regular March–April 2023; Regular October 2023; Regular March 2024; October 2024 (R); April 2025 (R) | 1–6         | Session wording as shown                                         |
+| Date of issue            | 16.10.2025                                                                                                                  | 1           | Certificate date                                                 |
+| Final CGPA               | **8.85**                                                                                                                    | 6           | Explicitly printed                                               |
+| Final percentage         | Not stated                                                                                                                  | —           | No percentage conversion printed                                 |
+| Total semesters          | 6                                                                                                                           | 1–6         |                                                                  |
+| Total credits earned     | **120**                                                                                                                     | 1–6         | Calculated from 20 credits earned in each semester               |
+| Degree completion status | Successfully completed                                                                                                      | 1, 6        | Transcript certificate states successful completion              |
+| Medium of instruction    | English                                                                                                                     | 1           | Explicitly stated                                                |
+| Transcript reference     | TDC-B.Sc. (Data Science)/Trans/2025                                                                                         | 1           | Reference number                                                 |
+| Seat number              | 3222, 2702, 2804                                                                                                            | 1–6         | Semester I–II: 3222; III–IV: 2702; V–VI: 2804                    |
+
+TranscriptOfBachelorDS.pdf
+
+# **Part 2 — Complete Semester-Wise Course Inventory**
+
+Below are the course entries as transcribed. Maximum marks are **Not stated**, because the transcript has a marks-obtained column but no separate maximum-marks column.
+
+## **Semester I — November 2022**
+
+Semester result: Successful · SGPI: 8.00 · Grade: A
+
+| Course Code  | Exact Course Title                    | Credits | Marks Obtained | Grade | Grade Point |
+| ------------ | ------------------------------------- | ------- | -------------- | ----- | ----------- |
+| UGDS1IDS0120 | Introduction to Data Science          | 2       | 60             | A     | 8           |
+| UGDS1EPC0220 | Essentials of Programming With C      | 2       | 51             | B     | 6           |
+| UGDS1CSE0320 | Communication Skills in English       | 2       | 69             | A     | 8           |
+| UGDS1LAC0420 | Linear Algebra and Basics of Calculus | 2       | 55             | B+    | 7           |
+| UGDS1DAS0520 | Data analysis using Spread Sheet      | 2       | 72             | A+    | 9           |
+| UGDS1IDSP120 | Practical of UGDS1IDS0120             | 2       | 34             | A     | 8           |
+| UGDS1EPCP220 | Practical of UGDS1EPC0220             | 2       | 22             | D     | 4           |
+| UGDS1CSEP320 | Practical of UGDS1CSE0320             | 2       | 37\@3          | O     | 10          |
+| UGDS1LACP420 | Practical of UGDS1LAC0420             | 2       | 40             | O     | 10          |
+| UGDS1DASP520 | Practical of UGDS1DAS0520             | 2       | 47             | O     | 10          |
+
+**Printed semester totals:** Marks 490 · Credits earned 20 · CG 160 · SGPI 8.00.
+
+Source: Page 1.
+
+## **Semester II — March–April 2023**
+
+Semester result: Successful · SGPI: 8.90 · Grade: A
+
+| Course Code  | Exact Course Title                              | Credits | Marks Obtained | Grade | Grade Point |
+| ------------ | ----------------------------------------------- | ------- | -------------- | ----- | ----------- |
+| UGDS2EPC0120 | Essentials of Programming with C++              | 2       | 71             | A+    | 9           |
+| UGDS2DMS0220 | Database Management System                      | 2       | 51             | B     | 6           |
+| UGDS2OPS0320 | Operating Systems                               | 2       | 60             | A     | 8           |
+| UGDS3PAS0420 | Probability and Statistics                      | 2       | 69             | A     | 8           |
+| UGDS2PYP0520 | Python Programming-I                            | 2       | 69             | A     | 8           |
+| UGDS2EPCP120 | Practical of Essentials of Programming with C++ | 2       | 50             | O     | 10          |
+| UGDS2DMSP220 | Practical of Database Management System         | 2       | 43             | O     | 10          |
+| UGDS2OPSP320 | Practical of Operating Systems                  | 2       | 50             | O     | 10          |
+| UGDS2PASP420 | Practical of Probability and Statistics         | 2       | 47             | O     | 10          |
+| UGDS2PYPP520 | Practical of Python Programming-I               | 2       | 50             | O     | 10          |
+
+**Printed semester totals:** Marks 560 · Credits earned 20 · CG 178 · SGPI 8.90.
+
+Source: Page 2.
+
+## **Semester III — October 2023**
+
+Semester result: Successful · SGPI: 9.20 · Grade: A+
+
+| Course Code  | Exact Course Title                                       | Credits | Marks Obtained | Grade | Grade Point |
+| ------------ | -------------------------------------------------------- | ------- | -------------- | ----- | ----------- |
+| UGDS3SDS0121 | Sampling & Descriptive Statistics                        | 2       | 76             | A+    | 9           |
+| UGDS3ADS0221 | Advance SQL                                              | 2       | 85             | O     | 10          |
+| UGDS3TCC0321 | Technical Communication and Content Writing              | 2       | 57             | B+    | 7           |
+| UGDS3ARP0421 | Adv. R Programming                                       | 2       | 75             | A+    | 9           |
+| UGDS3DSA0521 | Data Structure & Algorithm                               | 2       | 66             | A     | 8           |
+| UGDS3SDSP121 | Practical of Sampling & Descriptive Statistics           | 2       | 40             | O     | 10          |
+| UGDS3ADSP221 | Practical of Advance SQL                                 | 2       | 50             | O     | 10          |
+| UGDS3TCCP321 | Practical of Technical Communication and Content Writing | 2       | 35             | A+    | 9           |
+| UGDS3ARPP421 | Practical of Advanced R Programming                      | 2       | 50             | O     | 10          |
+| UGDS3DSAP521 | Practical of Data Structure & Algorithm                  | 2       | 47             | O     | 10          |
+
+**Printed semester totals:** Marks 581 · Credits earned 20 · CG 184 · SGPI 9.20.
+
+Source: Page 3.
+
+## **Semester IV — March 2024**
+
+Semester result: Successful · SGPI: 9.10 · Grade: A+
+
+| Course Code  | Exact Course Title                                            | Credits | Marks Obtained | Grade | Grade Point |
+| ------------ | ------------------------------------------------------------- | ------- | -------------- | ----- | ----------- |
+| UGDS4SSM0121 | Statistical Simulation and Multivariate Analysis              | 2       | 81             | O     | 10          |
+| UGDS4DWD0221 | Data Warehousing and data Mining                              | 2       | 63             | A     | 8           |
+| UGDS4ASE0321 | Agile Software Engineering                                    | 2       | 57             | B+    | 7           |
+| UGDS4DAV0421 | Data Visualization                                            | 2       | 85             | O     | 10          |
+| UGDS4APP0521 | Advance Python Programming                                    | 2       | 82             | O     | 10          |
+| UGDS4SSMP121 | Practical of Statistical Simulation and Multivariate Analysis | 2       | 32             | A     | 8           |
+| UGDS4DWDP221 | Practical of Data Warehousing and data Mining                 | 2       | 50             | O     | 10          |
+| UGDS4ASEP321 | Practical of Agile Software Engineering                       | 2       | 30             | A     | 8           |
+| UGDS4DAVP421 | Practical of Data Visualization                               | 2       | 46             | O     | 10          |
+| UGDS4APPP521 | Practical of Advance Python Programming                       | 2       | 43             | O     | 10          |
+
+**Printed semester totals:** Marks 569 · Credits earned 20 · CG 182 · SGPI 9.10.
+
+Source: Page 4.
+
+## **Semester V — October 2024**
+
+Semester result: Successful · SGPI: 8.70 · Grade: A
+
+| Course Code  | Exact Course Title                                        | Credits | Marks Obtained | Grade | Grade Point |
+| ------------ | --------------------------------------------------------- | ------- | -------------- | ----- | ----------- |
+| UGDS5SPM0122 | Software Project Management                               | 2       | 61             | A     | 8           |
+| UGDS5ARI0222 | Artificial Intelligence                                   | 2       | 74             | A+    | 9           |
+| UGDS5BIT0322 | Business Intelligence using Tableau/Power BI              | 2       | 76             | A+    | 9           |
+| UGDS5BDA0422 | Big data analytics using Hadoop                           | 2       | 77\@3          | O     | 10          |
+| UGDS5BEE0522 | Business Ethics and Environmental Science                 | 2       | 75             | A+    | 9           |
+| UGDS5SPMP122 | Practical of Software Project Management                  | 2       | 21             | D     | 4           |
+| UGDS5ARIP222 | Practical of Artificial Intelligence                      | 2       | 34             | A     | 8           |
+| UGDS5BITP322 | Practical of Business Intelligence Using Tableau/Power BI | 2       | 45             | O     | 10          |
+| UGDS5BDAP422 | Practical of Big data analytics using Hadoop              | 2       | 50             | O     | 10          |
+| UGDS5BEEP522 | Practical of Business Ethics and Environmental Science    | 2       | 46             | O     | 10          |
+
+**Printed semester totals:** Marks 562 · Credits earned 20 · CG 174 · SGPI 8.70.
+
+Source: Page 5.
+
+## **Semester VI — April 2025**
+
+Semester result: Successful · SGPI: 9.20 · Grade: A+ · Final CGPA: 8.85
+
+| Course Code  | Exact Course Title              | Credits | Marks Obtained | Grade | Grade Point |
+| ------------ | ------------------------------- | ------- | -------------- | ----- | ----------- |
+| UGDS6MAL0122 | Machine Learning                | 2       | 72             | A+    | 9           |
+| UGDS6CLC0222 | Cloud Computing                 | 2       | 72             | A+    | 9           |
+| UGDS6ENJ0322 | Enterprise Java                 | 2       | 56             | B+    | 7           |
+| UGDS6KNM0422 | Knowledge Management            | 2       | 74             | A+    | 9           |
+| UGDS6IOT0522 | Internet of things              | 2       | 77\@3          | O     | 10          |
+| UGDS6MALP122 | Practical of Machine Learning   | 2       | 48             | O     | 10          |
+| UGDS6CLCP222 | Practical of Cloud Computing    | 2       | 50             | O     | 10          |
+| UGDS6ENJP322 | Practical of Enterprise Java    | 2       | 48             | O     | 10          |
+| UGDS6PRIP422 | Project Implementation          | 2       | 102            | A     | 8           |
+| UGDS6IOTP522 | Practical of Internet of things | 2       | 50             | O     | 10          |
+
+**Printed semester totals:** Marks 652 · Credits earned 20 · CG 184 · SGPI 9.20 · Final CGPA 8.85.
+
+Source: Page 6.
+
+# **Part 3 — Semester-Wise Academic Summary**
+
+\| Semester | Courses | Credits Registered | Credits Earned | Sum of Course Credits | Marks Obtained | SGPI | Grade |\
+\|---|---:|---|---:|---:|---:|---|\
+\| I | 10 | Not stated | 20 | 20 | 490 | 8.00 | A |\
+\| II | 10 | Not stated | 20 | 20 | 560 | 8.90 | A |\
+\| III | 10 | Not stated | 20 | 20 | 581 | 9.20 | A+ |\
+\| IV | 10 | Not stated | 20 | 20 | 569 | 9.10 | A+ |\
+\| V | 10 | Not stated | 20 | 20 | 562 | 8.70 | A |\
+\| VI | 10 | Not stated | 20 | 20 | 652 | 9.20 | A+ |\
+\| **Total** | **60** | **Not stated** | **120** | **120** | **3,414** | — | — |
+
+### **Cross-check**
+
+- Each semester has 10 courses.
+- Each semester's individual course credits sum to 20.
+- Each semester's printed credit earned total is 20.
+- The six-semester credit total is 120.
+- The total marks obtained across the semester totals are 3,414.
+- No semester credit discrepancy was identified.
+
+**Credits registered:** The transcript does not explicitly provide a separate registered-credit figure. Therefore, I have not equated registered credits with earned credits as an official fact. The course-credit sum and the printed earned-credit total are reconciled.
+
+# **Part 4 — Overall Academic Summary**
+
+| Academic Metric                 | Value                      | Status                                              |
+| ------------------------------- | -------------------------- | --------------------------------------------------- |
+| Number of semesters             | 6                          | Explicit                                            |
+| Number of course entries        | 60                         | Counted                                             |
+| Number of distinct course codes | 60                         | Counted from the transcript                         |
+| Credits earned                  | 120                        | Printed semester totals summed                      |
+| Course credits summed           | 120                        | Calculated                                          |
+| Credits registered              | Not stated                 | Cannot establish                                    |
+| Final CGPA                      | 8.85                       | Explicitly printed                                  |
+| Overall percentage              | Not stated                 | Not calculated                                      |
+| Total marks obtained            | 3,414                      | Calculated from printed semester totals             |
+| Failed semesters                | 0 indicated                | All semesters marked Successful                     |
+| Backlogs                        | No backlog indicated       | Transcript does not have a separate backlog summary |
+| Repeated courses                | None explicitly identified | No repeat notation found                            |
+| Degree completion               | Successfully completed     | Explicit                                            |
+| Final grade                     | A                          | Final grade printed on Semester VI transcript       |
+
+**Important distinction:** No individual course is explicitly labelled as a backlog, repeat or failed course in the transcript. I am not treating a lower letter grade as a backlog.
+
+# **Part 5 — Preliminary Subject Classification**
+
+This classification is based **only on the course titles**. It is not an official University of Mumbai subject classification or a German university's ECTS assessment.
+
+Practical courses have been grouped with their corresponding subject area where the title makes that connection clear.
+
+| Semester | Course Title                                                  | Credits | Preliminary Subject Category                 | Confidence |
+| -------- | ------------------------------------------------------------- | ------- | -------------------------------------------- | ---------- |
+| I        | Introduction to Data Science                                  | 2       | Data Analytics and Business Intelligence     | Medium     |
+| I        | Essentials of Programming With C                              | 2       | Programming and Software Development         | High       |
+| I        | Communication Skills in English                               | 2       | Communication and General Education          | High       |
+| I        | Linear Algebra and Basics of Calculus                         | 2       | Mathematics                                  | High       |
+| I        | Data analysis using Spread Sheet                              | 2       | Data Analytics and Business Intelligence     | High       |
+| I        | Practical of UGDS1IDS0120                                     | 2       | Data Analytics and Business Intelligence     | Medium     |
+| I        | Practical of UGDS1EPC0220                                     | 2       | Programming and Software Development         | High       |
+| I        | Practical of UGDS1CSE0320                                     | 2       | Communication and General Education          | Medium     |
+| I        | Practical of UGDS1LAC0420                                     | 2       | Mathematics                                  | Medium     |
+| I        | Practical of UGDS1DAS0520                                     | 2       | Data Analytics and Business Intelligence     | High       |
+| II       | Essentials of Programming with C++                            | 2       | Programming and Software Development         | High       |
+| II       | Database Management System                                    | 2       | Database Management Systems                  | High       |
+| II       | Operating Systems                                             | 2       | Computer Science Fundamentals                | High       |
+| II       | Probability and Statistics                                    | 2       | Probability and Statistics                   | High       |
+| II       | Python Programming-I                                          | 2       | Programming and Software Development         | High       |
+| II       | Practical of Essentials of Programming with C++               | 2       | Programming and Software Development         | High       |
+| II       | Practical of Database Management System                       | 2       | Database Management Systems                  | High       |
+| II       | Practical of Operating Systems                                | 2       | Computer Science Fundamentals                | High       |
+| II       | Practical of Probability and Statistics                       | 2       | Probability and Statistics                   | High       |
+| II       | Practical of Python Programming-I                             | 2       | Programming and Software Development         | High       |
+| III      | Sampling & Descriptive Statistics                             | 2       | Probability and Statistics                   | High       |
+| III      | Advance SQL                                                   | 2       | Database Management Systems                  | High       |
+| III      | Technical Communication and Content Writing                   | 2       | Communication and General Education          | High       |
+| III      | Adv. R Programming                                            | 2       | Programming and Software Development         | High       |
+| III      | Data Structure & Algorithm                                    | 2       | Algorithms and Data Structures               | High       |
+| III      | Practical of Sampling & Descriptive Statistics                | 2       | Probability and Statistics                   | High       |
+| III      | Practical of Advance SQL                                      | 2       | Database Management Systems                  | High       |
+| III      | Practical of Technical Communication and Content Writing      | 2       | Communication and General Education          | High       |
+| III      | Practical of Advanced R Programming                           | 2       | Programming and Software Development         | High       |
+| III      | Practical of Data Structure & Algorithm                       | 2       | Algorithms and Data Structures               | High       |
+| IV       | Statistical Simulation and Multivariate Analysis              | 2       | Probability and Statistics                   | High       |
+| IV       | Data Warehousing and data Mining                              | 2       | Data Engineering and Big Data                | High       |
+| IV       | Agile Software Engineering                                    | 2       | Software Engineering and Project Management  | High       |
+| IV       | Data Visualization                                            | 2       | Data Analytics and Business Intelligence     | High       |
+| IV       | Advance Python Programming                                    | 2       | Programming and Software Development         | High       |
+| IV       | Practical of Statistical Simulation and Multivariate Analysis | 2       | Probability and Statistics                   | High       |
+| IV       | Practical of Data Warehousing and data Mining                 | 2       | Data Engineering and Big Data                | High       |
+| IV       | Practical of Agile Software Engineering                       | 2       | Software Engineering and Project Management  | High       |
+| IV       | Practical of Data Visualization                               | 2       | Data Analytics and Business Intelligence     | High       |
+| IV       | Practical of Advance Python Programming                       | 2       | Programming and Software Development         | High       |
+| V        | Software Project Management                                   | 2       | Software Engineering and Project Management  | High       |
+| V        | Artificial Intelligence                                       | 2       | Artificial Intelligence and Machine Learning | High       |
+| V        | Business Intelligence using Tableau/Power BI                  | 2       | Data Analytics and Business Intelligence     | High       |
+| V        | Big data analytics using Hadoop                               | 2       | Data Engineering and Big Data                | High       |
+| V        | Business Ethics and Environmental Science                     | 2       | Other / Unclear                              | High       |
+| V        | Practical of Software Project Management                      | 2       | Software Engineering and Project Management  | High       |
+| V        | Practical of Artificial Intelligence                          | 2       | Artificial Intelligence and Machine Learning | High       |
+| V        | Practical of Business Intelligence Using Tableau/Power BI     | 2       | Data Analytics and Business Intelligence     | High       |
+| V        | Practical of Big data analytics using Hadoop                  | 2       | Data Engineering and Big Data                | High       |
+| V        | Practical of Business Ethics and Environmental Science        | 2       | Other / Unclear                              | High       |
+| VI       | Machine Learning                                              | 2       | Artificial Intelligence and Machine Learning | High       |
+| VI       | Cloud Computing                                               | 2       | Cloud Computing and Distributed Systems      | High       |
+| VI       | Enterprise Java                                               | 2       | Programming and Software Development         | High       |
+| VI       | Knowledge Management                                          | 2       | Data Analytics and Business Intelligence     | Medium     |
+| VI       | Internet of things                                            | 2       | Cloud Computing and Distributed Systems      | Medium     |
+| VI       | Practical of Machine Learning                                 | 2       | Artificial Intelligence and Machine Learning | High       |
+| VI       | Practical of Cloud Computing                                  | 2       | Cloud Computing and Distributed Systems      | High       |
+| VI       | Practical of Enterprise Java                                  | 2       | Programming and Software Development         | High       |
+| VI       | Project Implementation                                        | 2       | Software Engineering and Project Management  | Medium     |
+| VI       | Practical of Internet of things                               | 2       | Cloud Computing and Distributed Systems      | Medium     |
+
+# **Part 6 — Credit Distribution by Subject Area**
+
+The following is a **preliminary title-based grouping**. Each course is assigned to one category only. Practical courses are counted separately because they are separate transcript entries with separate credits.
+
+| Subject Category                             | Number of Courses | Institutional Credits |
+| -------------------------------------------- | ----------------- | --------------------- |
+| Programming and Software Development         | 12                | 24                    |
+| Data Analytics and Business Intelligence     | 9                 | 18                    |
+| Probability and Statistics                   | 6                 | 12                    |
+| Software Engineering and Project Management  | 5                 | 10                    |
+| Artificial Intelligence and Machine Learning | 4                 | 8                     |
+| Data Engineering and Big Data                | 4                 | 8                     |
+| Database Management Systems                  | 4                 | 8                     |
+| Cloud Computing and Distributed Systems      | 4                 | 8                     |
+| Communication and General Education          | 4                 | 8                     |
+| Computer Science Fundamentals                | 2                 | 4                     |
+| Algorithms and Data Structures               | 2                 | 4                     |
+| Mathematics                                  | 2                 | 4                     |
+| Other / Unclear                              | 2                 | 4                     |
+| **Total**                                    | **60**            | **120**               |
+
+07142128ProgrammingData Analytics / BIProbability / StatisticsSoftware EngineeringAI / MLData EngineeringDatabase SystemsCloud / DistributedCommunication / GeneralCS FundamentalsAlgorithmsMathematicsOther
+
+### **Reconciliation**
+
+\\[ 24+18+12+10+(5\times8)+(4\times4)=120 \\]
+
+The classification totals reconcile exactly to the **120 institutional credits** appearing across the semester records.
+
+This is **not an ECTS calculation**. The institutional credits have been preserved as printed.
+
+# **Part 7 — Discrepancy and Verification Report**
+
+| Issue | Semester / Page      | Issue Identified                                                                    | Why It Needs Verification                                                         | Recommended Action                    |
+| ----- | -------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------- |
+| 1     | Semester I / Page 1  | Marks recorded as `37@3` for Practical of UGDS1CSE0320                              | The notation is unusual and its meaning is not explained                          | Confirm with college                  |
+| 2     | Semester V / Page 5  | Marks recorded as `77@3` for Big data analytics using Hadoop                        | Notation is not explained                                                         | Confirm with college                  |
+| 3     | Semester VI / Page 6 | Marks recorded as `77@3` for Internet of things                                     | Notation is not explained                                                         | Confirm with college                  |
+| 4     | Semester II / Page 2 | Course code `UGDS3PAS0420` appears under Semester II for Probability and Statistics | Prefix appears inconsistent with semester numbering, but may be the official code | Verify against official syllabus      |
+| 5     | All pages            | Maximum marks per course are not shown                                              | Cannot calculate individual course percentages                                    | Obtain official assessment scheme     |
+| 6     | All pages            | Credits registered are not separately shown                                         | Cannot distinguish registered from earned credits independently                   | Obtain credit-registration record     |
+| 7     | All pages            | Course type is not explicitly stated in a separate field                            | Theory/practical distinction is largely based on title                            | Cross-check official course structure |
+| 8     | Semester VI / Page 6 | Project Implementation has marks 102                                                | Maximum marks and assessment breakdown are not provided                           | Verify project assessment scheme      |
+
+### **Findings**
+
+- No missing course titles were identified.
+- No missing course codes were identified.
+- No unclear credit values were identified.
+- No semester credit discrepancies were identified.
+- No duplicate course entries were found.
+- All semester totals reconcile with the individual course entries.
+- All six semester results are marked **Successful**.
+- The final CGPA of 8.85 is explicitly stated.
+
+The `@3` marks notation and the unusual Semester II course code should be verified before submitting this dataset as an official academic record.
+
+# **Part 8 — Final Machine-Readable Course Dataset**
+
+The consolidated Excel sheet **Machine-Readable Dataset** contains all 60 entries, one row per course, using the exact requested column order:
+
+1. Semester
+2. Course Code
+3. Exact Course Title
+4. Course Type
+5. Credits
+6. Maximum Marks
+7. Marks Obtained
+8. Grade
+9. Grade Point
+10. Result
+11. Preliminary Subject Category
+12. Source Page
+13. Verification Status
+
+The dataset uses:
+
+- `Not stated` for absent transcript fields.
+- Transcript's original marks notation.
+- Original course codes and course titles.
+- Individual theory/practical entries without combining them.
+- Preliminary category assignments only.
+- Page references for source verification.
+
+The workbook also contains the full semester course tables, which are easier to filter and sort in Excel than a 60-row table inside the chat.
+
+# **Part 9 — Final Accuracy Check**
+
+## **Transcript extraction audit**
+
+- ✓ All 6 semester records examined
+- ✓ All 60 course entries transcribed
+- ✓ 10 courses included per semester
+- ✓ No duplicate course rows identified
+- ✓ Semester credit totals cross-checked
+- ✓ Overall credits reconcile to 120
+- ✓ Semester marks totals cross-checked
+- ✓ Final CGPA of 8.85 preserved
+- ✓ Grades and grade points preserved
+- ✓ Unusual marks notation retained rather than interpreted
+- ✓ No ECTS conversion performed
+
+### **Numerical verification**
+
+| Check                | Transcript | Extracted / Calculated | Status             |
+| -------------------- | ---------- | ---------------------- | ------------------ |
+| Semester I credits   | 20         | 20                     | Reconciled         |
+| Semester II credits  | 20         | 20                     | Reconciled         |
+| Semester III credits | 20         | 20                     | Reconciled         |
+| Semester IV credits  | 20         | 20                     | Reconciled         |
+| Semester V credits   | 20         | 20                     | Reconciled         |
+| Semester VI credits  | 20         | 20                     | Reconciled         |
+| Overall credits      | 120        | 120                    | Reconciled         |
+| Course entries       | —          | 60                     | Counted            |
+| Semester marks total | —          | 3,414                  | Calculated         |
+| Final CGPA           | 8.85       | 8.85                   | Matches transcript |
+
+## **Information Still Required from the Official Syllabus**
+
+The transcript establishes the names of courses, marks, grades, grade points, credits earned and semester performance. It does **not** establish the detailed curriculum needed for German Master's admission prerequisite assessment.
+
+For a subsequent university-specific eligibility assessment, the following should be obtained from the official syllabus or university documentation:
+
+- Detailed course descriptions
+- Topics and units covered in each course
+- Learning outcomes
+- Mathematical topics and depth of coverage
+- Theory versus practical components
+- Weekly teaching hours
+- Practical laboratory hours
+- Assessment structure
+- Independent study workload
+- Programming language and tools used
+- Specific algorithms and data structures taught
+- Statistical methods covered
+- Database concepts and SQL content
+- Machine-learning algorithms covered
+- Cloud computing and distributed systems topics
+- Data engineering and Big Data topics
+- Project requirements and scope
+
+**Particularly important for German admissions:** your transcript alone cannot establish the exact amount of mathematics, statistics, theoretical computer science, algorithms, programming, and database coursework in the form of subject credits that individual German universities require.
+
+The transcript is now structured into a usable academic dataset. The next step is to match these 120 institutional credits against your official syllabus, then evaluate them university by university without assuming that Indian institutional credits equal ECTS.
+
+*Correction to the credit reconciliation equation above:* the category totals are:
+
+\\[ 24+18+12+10+40+16=\boxed{120} \\]
+
+The Excel workbook is ready to use for the next stage of your German MSc applications: **subject-credit matching against the official syllabus and university prerequisite requirements.**

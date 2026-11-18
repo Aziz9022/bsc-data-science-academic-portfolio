@@ -1,0 +1,899 @@
+Revised Syllabus for
+F.Y.B.Sc.
+Program: Bachelor of Science
+Course: Data Science (TCSCDS)
+Choice Based Credit System (CBCS)
+With Effect from
+Academic Year 2020 - 2021
+SEMESTER I:
+● Basics of Data Science
+● Essentials of Programming with C
+● Communication Skill in English
+● Linear Algebra and Basics of Calculus
+● Data Analysis using Spread Sheet(VBA)
+SEMESTER II:
+● Essentials of Programming with C++
+● DBMS(Database Management System)
+● Operating Systems
+● Probability and Statistics
+● Python Programming - I
+B. Sc. (Data Science) Semester – I
+Course Name: Basics of data Science Course Code: TCSCUSDS101
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation System Theory
+examination
+2 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10 –
+Active Participation)
+Course Name: Basics of data Science
+Practical
+Course Code: TCSCUSDSP101
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation System Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of Art of Data
+Science.
+● This course aims to provide the basics understanding of needs of
+Data Science.
+Unit Details Lectures
+I The Art of Data Science: Volume, Velocity, Variety, Machine Learning,
+Supervised and Unsupervised Learning, Predictions and Forecasts, Innovation and
+Experimentation, The Dark Side Big Errors, Privacy, Theories, Models, Intuition,
+Causality, Prediction, Correlation
+The Very Beginning: Exponentials, Logarithms, Normal Distribution, Poisson
+Distribution, Moments of a continuous random variable.
+12
+II Web Scraping, Web crawling, Text Pre Processing, Word Cloud, Extracting data
+from Twitter, Extracting data from Facebook
+Text Classification: Bayes Classifier, Support vector machine, Word count
+classifier
+12
+III Basics of R
+What is R?, Featuresnand properties of R, Limitations of R, Benefits of R, R
+Objects, Matrices, Lists, Factors, Vectors, Arrays, Data Frames, Data Operators in
+R: Arithmetic, Assignment, Relational, Logical, Special Operators
+12
+IV Control Structures: if-else, for loop, nested for loop, while loop, repeat loop, break
+and next.
+Functions in R
+Packages in R: Plyr,luridate,quatmod,tm,ggplot2,plotrix
+12
+V R-statistics:
+Mean, median and mode, Linear regression, Normal distribution, Poisson
+distribution, Time series analysis
+R-Plots:
+Pie chart, Bar chart, Box plot, Hostogram, Line graphs, Scatter plots
+12
+Books and References:
+Sr. No. Title Author/s Publishe
+r
+Edition Year
+1. Data Science: Theories, Models,
+Algorithms and Analytics
+Sanjeev R Das
+2. Foundations of Data Science Arvim Blum, John
+Hopcroft and Ravindran
+Kannan
+3. Doing Data Science Rachel Schutt and Cathy
+O’Neil
+O’Reilly
+Course Outcome Understand importance of Data Science.
+B. Sc. (Data Science) Semester – I
+Course Name: Essentials of
+Programming with C
+Course Code: TCSCUSDS102
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation System Theory
+Examination
+2½ 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10 – Active
+Participation)
+Course Name: Essentials of
+Programming with C Practical
+Course Code: TCSCUSDSP102
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation System Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of
+programming.
+● This course aims to provide the basics understanding of procedural
+programming.
+Unit Details Lecture
+s
+I Introduction: Types of Programming languages, History, features and application.
+Simple program logic, program development cycle, pseudo-code statements and
+flowchart symbols, sentinel value to end a program, programming and user
+environments, evolution of programming models., desirable program
+characteristics.
+Fundamentals: Structure of a program. Compilation and Execution of a Program,
+Character Set, identifiers and keywords, data types, constants, variables and arrays,
+declarations, expressions, statements, Variable definition, symbolic constants.
+12
+II Operators and Expressions: Arithmetic operators, unary operators, relational and
+logical operators, assignment operators, assignment operators, the conditional
+operator, library functions.
+Data Input and output: Single character input and output, entering input data,
+scanf function, printf function, gets and puts functions, interactive programming.
+12
+III Conditional Statements and Loops: Decision Making Within A Program,
+Conditions, Relational Operators, Logical Connectives, If Statement, If-Else
+Statement, Loops: While Loop, Do While, For Loop. Nested Loops, Infinite Loops,
+Switch Statement
+Functions: Overview, defining a function, accessing a function, passing arguments
+to a function, specifying argument data types, function prototypes, recursion,
+modular programming and functions, standard library of c functions, prototype of a
+12
+function: foo1lal parameter list, return type, function call, block structure, passing
+arguments to a function: call by reference, call by value.
+IV Program structure: Storage classes, automatic variables, external variables, static
+variables, multifile programs, more library functions,
+Preprocessor: Features, #define and #include, Directives and Macros
+Arrays: Definition, processing, passing arrays to functions, multidimensional
+arrays, arrays and strings.
+12
+V Pointers: Fundamentals, declarations, Pointers Address Operators, Pointer Type
+Declaration, Pointer Assignment, Pointer Initialization, Pointer Arithmetic,
+Functions and Pointers, Arrays And Pointers, Pointer Arrays, passing functions to
+other functions.
+Structures and Unions: Structure Variables, Initialization, Structure Assignment,
+Nested Structure, Structures and Functions, Structures and Arrays: Arrays of
+Structures, Structures Containing Arrays, Unions, Structures and pointers.
+12
+Books and References:
+Sr. No. Title Author/s Publisher Edition Year
+1. Programming with
+C
+Byron Gottfried Tata
+McGRAWHill
+2 nd 1996
+2. Programming
+Logic and Design
+Joyce Farell Cengage Learning 8th 2014
+3. “C”
+Programming”
+Brian W. Kernighan and
+Denis M. Ritchie.
+PHI 2nd
+4. Let us C Yashwant P. Kanetkar, BPB publication
+5. C for beginners Madhusudan Mothe X-Team Series 1st 2008
+6. 21st Century C Ben Klemens OReilly 1st 2012
+Course Outcome Understand importance of Program writing in C
+B. Sc. (Data Science) Semester – I
+Course Name: Communication Skill in
+English
+Course Code: TCSCUSDS103
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation System Theory
+examination
+2 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10 –
+Active Participation)
+Course Name Communication Skill in
+English Practical
+Course Code: TCSCUSDSP103
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation System Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of skills in
+communication.
+● This course aims to provide the basics understanding of
+technicalities in business communication.
+Unit Details Lectures
+I The Seven Cs of Effective Communication:
+Completeness, Conciseness, Consideration, Concreteness, Clarity, Courtesy,
+Correctness
+Understanding Business Communication:
+Nature and Scope of Communication, Non-verbal Communication,
+Cross-cultural communication, Technology-enabled Business
+Communication
+12
+II Writing Business Messages and Documents:
+Business writing, Business Correspondence, Instructions Business Reports
+and Proposals, Career building and Resume writing. Developing Oral
+Communication Skills forBusiness:
+Effective Listening, Business Presentations and Public Speaking,
+Conversations, Interviews
+12
+III Understanding Specific Communication Needs:
+Corporate Communication, Persuasive Strategies in Business
+Communication, Ethics in Business Communication, Business
+Communication Aids
+12
+IV Presentation Process: Planning the presentations, executing the presentations,
+Impressing the audience by performing, Planning stage: Brainstorming, mind
+maps / concept maps, executing stage: chunking theory, creating outlines, Use
+of templates. Adding graphics to your
+presentation:Visualcommunication,Impressstage:useoffont,colour,
+layout, Importance of practice and performance.
+12
+V Overview and Issues:
+Problems: Toxins, Power Consumption, Equipment Disposal, Company’s
+Carbon Footprint: Measuring, Details, reasons to bother, Plan for the Future,
+Cost Savings: Hardware, Power.
+Initiatives and Standards:
+Global Initiatives: United Nations, Basel Action Network, Basel Convention,
+North America: The United States, Canada, Australia,
+Europe, WEEE Directive, RoHS, National Adoption, Asia: Japan, China, Korea.
+12
+Books and References:
+Sr. No. Title Author/s Publisher Edition Year
+1. Business Communication Meenakshi Raman
+and Prakash Singh
+Oxford University
+Press
+Second
+2. Professional
+Communication
+Aruna Koneru Tata McGraw Hill
+3. Strategies for improving
+your business
+communication
+Prof. M. S. Rao Shroff publishers
+and distributors
+2016
+4. Business Communication Dr. Rishipal and Dr.
+Jyoti Sheoran
+SPD 2014
+Course Outcome Understand importance of communication in business.
+Course Name: Linear Algebra and
+Basics of Calculus
+Course Code: TCSCUSDS104
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation System Theory
+Examination
+2½ 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10 –
+Active Participation)
+Course Name: Linear Algebra and
+Basics of Calculus Practical
+Course Code: TCSCUSDSP104
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation System Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of linear
+algebra.
+● This course aims to provide the basics understanding of calculus.
+Unit Details Lectures
+I Determinants and its Properties.
+Matrices: Inverse of a matrix, addition, multiplication and transpose of a matrix
+Types of Matrices (symmetric, skew- symmetric, Hermitian, Skew Hermitian,
+Unitary, Orthogonal Matrices and properties of Matrices). Rank of a Matrix using
+Echelon forms, reduction to normal form, Determinants. Properties of determinants.
+Systems of homogeneous and non – homogeneous linear equations, their
+consistency and solutions.
+12
+II Characteristic equation, Eigen values, Eigen vectors and Eigen spaces, properties of
+Eigen values and Eigen vectors, Cayley-Hamilton theorem (without proof),
+examples based on verification of Cayley- Hamilton theorem, Similarity of matrices,
+Diagonalisation of matrices.
+12
+III Groups, rings, ideals, fields: basic understanding of these abstract structures and
+their properties. Vectors in n-dimensional vector space: properties, dot product, cross
+product, norm and distance properties in n-dimensional vector space. Vector spaces
+over real field, properties of vector spaces over real field, subspaces. Linear
+independence, dependence and dimension.
+12
+IV Function of Several Variables. Partial Differentiation: Partial derivatives of first and
+higher order. Total differentials, differentiation of composite and implicit functions.
+Applications of Partial Differentiation: Maxima and Minima of a function of two
+independent variables, Jacobian Matrix and Hessian Matrix.
+12
+V Beta and Gamma functions and its properties. Double integration-definition,
+Evaluation of Double Integrals. Triple integration definition and evaluation
+(Cartesian, cylindrical and spherical polar coordinates). Application of double
+integrals to compute Area. Application of triple integral to compute volume.
+12
+Books and References:
+Sr. No. Title Author/s Publisher Edition Year
+1 A Course in Abstract Algebra Vijay K Khanna and
+S K Bhambri
+Vikas 5th 2017
+2 Elementary Engineering
+Mathematics (For I & II Semesters of
+B. Tech. & Diploma Courses)
+B. S. Grewal Khanna 15th 2004
+Course Outcome Understand importance of linear algebra.
+Course Name: Data Analysis using
+Spread Sheet(VBA)
+Course Code: TCSCUSDS105
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation System Theory
+Examination
+2½ 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10 –
+Active Participation)
+Course Name: Data Analysis using
+Spread Sheet(VBA) Practical
+Course Code: TCSCUSDSP105
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation System Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of Data
+analysis.
+● This course aims to provide the basics understanding of using Excel
+for Data Analysis.
+Unit Details Lectures
+I GETTING STARTED WITH EXCEL
+Getting Started, Excel and Spreadsheets, Launching Excel, Viewing the Excel
+Window, Running Excel Commands, Excel Workbooks and Worksheets, Opening a
+Workbook, Scrolling through a Workbook, Worksheet Cells, Selecting a Cell,
+Moving Cells, Printing from Excel, Previewing the Print Job, Setting Up the Page,
+12
+Printing the Page, Saving Your Work, Excel Add-Ins Unloading an Add-In, Hidden
+Data, Linked Formulas, Setup Options, Exiting Excel
+II WORKING WITH DATA
+Data Entry, Entering Data from the Keyboard, Entering Data with Autofill, Inserting
+New Data, Data Formats, Formulas and Functions, Inserting a Simple Formula,
+Inserting an Excel Function, Cell References, Range Names, Sorting Data, Querying
+Data, Using the AutoFilter, Using the Advanced Filter, Using Calculated Values,
+Importing Data from Text Files, Importing Data from Databases, Using Excel’s
+Database Query Wizard, Specifying Criteria and Sorting Data
+12
+III DESCRIBING YOUR DATA
+Variables and Descriptive Statistics, Frequency Tables, Creating a Frequency Table,
+Using Bins in a Frequency Table, Defining Your Own Bin Values, Working with
+Histograms, Creating a Histogram, Shapes of Distributions, Breaking a Histogram
+into Categories, Working with Stem and Leaf Plots, Distribution Statistics,
+Percentiles and Quartiles, Measures of the Center: Means, Medians, and the Mode
+12
+IV Using the Database Functions
+Quickly Reviewing Functions, Understanding function syntax rules, Entering a
+function manually, Entering a function with the Function command, Using the
+DAVERAGE Function, Using the DCOUNT and DCOUNTA Functions, Using the
+DGET Function, Using the DMAX and DMAX Functions, Using the DPRODUCT
+Function, Using the DSUM Function
+12
+V TABLES
+PivotTables, Removing Categories from a PivotTable, Changing the Values
+Displayed by the PivotTable, Displaying Categorical Data in a Bar Chart,
+Displaying Categorical Data in a Pie Chart, Two-Way Tables, Computing Expected
+Counts, The Pearson Chi-Square Statistic, Concept Tutorials: The x2 Distribution,
+Working with the x2 Distribution in Excel, Breaking Down the Chi-Square Statistic,
+Other Table Statistics, Validity of the Chi-Square Test with Small Frequencies
+12
+Books and References:
+Sr. No. Title Author/s Publisher Edition Year
+1. Data Analysis with Microsoft
+Excel Updated for Office 2007
+Kenneth N. Berk and
+Patrick Carey
+Microsoft
+Press
+2. Microsoft Excel 2013_ Data
+Analysis and Business
+Modeling
+Wayne L. Winston Microsoft
+Press
+3. Microsoft Excel 2016 Step by
+Step
+Curtis Frye Microsoft
+Press
+4. Excel-Data-Analysis-for-Dumm
+ies
+Stephen L. Nelson and
+E. C. Nelson
+Microsoft
+Press
+Course Outcome Understand importance of Data analysis using Excel.
+B. Sc. (Data Science) Semester – II
+Course Name: Essentials of
+Programming with C++
+Course Code: TCSCUSDS201
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation System Theory
+Examination
+2½ 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10 – Active
+Participation)
+Course Name: Essentials of
+Programming with C++ Practical
+Course Code: TCSCUSDSP201
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation System Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of C++
+programming.
+● This course aims to provide the basics understanding of object
+oriented programming.
+Unit Details Lecture
+s
+I Object Oriented Methodology:
+Introduction, Advantages and Disadvantages of Procedure Oriented Languages,
+what is Object Oriented? What is Object Oriented Development? Object Oriented
+Themes, Benefits and Application of OOPS.
+Principles of OOPS:
+12
+OOPS Paradigm, Basic Concepts of OOPS: Objects, Classes, Data Abstraction and
+Data Encapsulation, Inheritance, Polymorphism, Dynamic Binding, Message
+Passing
+II Classes and Objects:
+Simple classes (Class specification, class members accessing), Defining member
+functions, passing object as an argument, Returning object from functions, friend
+classes, Pointer to object, Array of pointer to object.
+Constructors and Destructors:
+Introduction, Default Constructor, Parameterized Constructor and examples,
+Destructors
+12
+III Polymorphism:
+Concept of function overloading, overloaded operators, overloading unary and
+binary operators, overloading comparison operator, overloading arithmetic
+assignment operator, Data Conversion between objects and basic types,
+Virtual Functions:
+Introduction and need, Pure Virtual Functions, Static Functions, this Pointer,
+abstract classes, virtual destructors.
+12
+IV Program development using Inheritance:
+Introduction, understanding inheritance, Advantages provided by inheritance,
+choosing the access specifier, Derived class declaration, derived class constructors,
+class hierarchies, multiple inheritance, multilevel inheritance, containership, hybrid
+inheritance.
+Exception Handling: Introduction, Exception Handling Mechanism, Concept of
+throw & catch with example
+12
+V Templates: Introduction, Function Template and examples, Class Template and
+examples.
+Working with Files: Introduction, File Operations, Various File Modes, File
+Pointer and their Manipulation
+12
+Books and References:
+Sr. No. Title Author/s Publisher Edition Year
+1. Object Oriented
+Analysis and
+Design
+Timothy Budd TMH 3rd 2012
+2. Mastering C++ K R Venugopal, Rajkumar
+Buyya, T Ravishankar
+Tata McGraw Hill 2nd Edition 2011
+3. C++ for beginners B. M. Hirwani SPD 2013
+4. Effective Modern
+C++
+Scott Meyers SPD
+5.
+Object Oriented
+Programming with
+C++
+E. Balagurusamy Tata McGraw Hill 4th
+Course Outcome Understand importance of writing programs in C++.
+B. Sc. (Data Science) Semester – II
+Course Name: DBMS(Database
+Management System)
+Course Code: TCSCUSDS202
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation System Theory
+examination
+2 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10 –
+Active Participation)
+Course Name: DBMS(Database
+Management System) Practical
+Course Code: TCSCUSDSP202
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation System Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of Database
+Management System.
+● This course aims to provide the basics understanding of RDBMS.
+Unit Details Lectures
+I Introduction to Databases and Transactions :
+What is database system, purpose of database system, view of data, relational
+databases, database architecture, transaction management
+Data Models : The importance of data models, Basic building blocks, Business
+rules, The evolution of data models, Degrees of data abstraction.
+12
+II Database Design, ER-Diagram and Unified Modeling Language:
+Database design and ER Model:overview, ER-Model, Constraints, ER Diagrams,
+ERD Issues, weak entity sets, Codd’s rules, Relational Schemas, Introduction to
+UML
+12
+Relational database model: Logical view of data, keys, integrity rules.
+Relational Database design: features of good relational database design, atomic
+domain and Normalization (1NF, 2NF, 3NF, BCNF).
+III Relational Algebra and Calculus: Relational algebra: introduction, Selection
+and projection, set operations, renaming, Joins, Division, syntax, semantics.
+Operators, grouping and ungrouping, relational comparison.
+Calculus: Tuple relational calculus, Domain relational Calculus, calculus vs
+algebra, computational capabilities.
+12
+IV Constraints, Views and SQL: What is constraints, types of constrains, Integrity
+constraints, Views: Introduction to views, data independence, security, updates
+on views, comparison between tables and views.
+SQL: data definition, aggregate function, Null Values, nested sub queries, Joined
+relations. Triggers.
+12
+V Transaction management and Concurrency control: Transaction
+management: ACID properties, serializability and concurrency control, Lock
+based concurrency control (2PL, Deadlocks),Time stamping methods, optimistic
+methods, database recovery management.
+12
+Books and References:
+Sr. No. Title Author/s Publisher Edition Year
+1. Database System and
+Concepts
+A Silberschatz, H
+Korth, S Sudarshan
+McGraw-
+Hill
+fifth
+2. Database Systems Rob, Coronel Cengage Learning Seventh
+Course Outcome Understand importance of programs in DBMS.
+B. Sc. (Data Science) Semester – II
+Course Name: Operating Systems Course Code: TCSCUSDS203
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation System Theory
+examination
+2 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10 –
+Active Participation)
+Course Name: Operating Systems
+Practical
+Course Code: TCSCUSDSP203
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation System Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of Operating
+Systems.
+● This course aims to provide the basics understanding of different
+utilities of OS.
+Unit Details Lectures
+I Introduction:
+What is an operating system? History of operating system, computer hardware,
+different operating systems, operating system concepts, system calls, operating
+system structure.
+Processes and Threads:
+Processes, threads, interprocess communication, scheduling, IPC problems.
+12
+II Memory Management:
+No memory abstraction, memory abstraction: address spaces, virtual memory,
+page replacement algorithms, design issues for paging systems, implementation
+issues, segmentation.
+File Systems:
+Files, directories, file system implementation, file-system management and
+optimization, MS-DOS file system, UNIX V7 file system, CD ROM file system.
+12
+III Input-Output:
+Principles of I/O hardware, Principles of I/O software, I/O software layers, disks,
+clocks, user interfaces: keyboard, mouse, monitor, thin clients, power
+management,
+Deadlocks:
+Resources, introduction to deadlocks, the ostrich algorithm, deadlock detection
+and recovery, deadlock avoidance, deadlock prevention, issues.
+12
+IV Virtualization and Cloud:
+History, requirements for virtualization, type 1 and 2 hypervisors, techniques for
+efficient virtualization, hypervisor microkernels, memory virtualization, I/O
+virtualization, Virtual appliances, virtual machines on multicore CPUs, Clouds.
+Multiple Processor Systems
+Multiprocessors, multicomputers, distributed systems.
+12
+V Case Study on LINUX and ANDROID:
+History of Unix and Linux, Linux Overview, Processes in Linux, Memory
+management in Linux, I/O in Linux, Linux file system, security in Linux.
+Android
+Case Study on Windows:
+History of windows through Windows 10, programming windows, system
+structure, processes and threads in windows, memory management, caching in
+windows, I/O in windows, Windows NT file system, Windows power
+management, Security in windows.
+12
+Books and References:
+Sr. No. Title Author/s Publisher Edition Year
+1. Modern Operating
+Systems
+Andrew S.
+Tanenbaum, Herbert
+Bos
+Pearson 4th 2014
+2. Operating Systems –
+Internals and Design
+Principles
+Willaim Stallings Pearson 8th 2009
+3. Operating System
+Concepts
+Abraham
+Silberschatz, Peter
+B. Galvineg Gagne
+Wiley 8th
+4. Operating Systems Godbole and Kahate McGraw Hill 3rd
+Course Outcome Understand importance of operating systems.
+B. Sc. (Data Science) Semester – II
+Course Name: Probability and Statistics Course Code: TCSCUSDS204
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation System Theory
+examination
+2 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10 –
+Active Participation)
+Course Name: Probability and Statistics
+Practical
+Course Code: TCSCUSDSP204
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation System Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of Probability.
+● This course aims to provide the basics understanding of Statistics.
+Unit Details Lectures
+I Concept of population and sample; Types of Characteristics; Primary data,
+Secondary data, Different methods of collecting Primary and Secondary Data;
+Types of data: Qualitative and quantitative data; Time series data and Cross
+section data, Panel data, Discrete and Continuous data; Tabulation;
+Classification- for two and three attributes; Diagrams- Simple Bar Diagram,
+Multiple Bar Diagram, Percentage Bar Diagram, Pie Diagram; Frequency
+distributions for discrete and continuous data; Graphs- Histogram, Frequency
+Polygon, Frequency Curve, Ogives
+12
+II Measures of central tendency- Concept, Arithmetic mean(Simple, weighted
+mean, combined mean), Geometric Mean, Harmonic Mean; Merits and demerits
+of using different measures &their applicability.
+Measures of Dispersion: Concept of dispersion. Requirements of good
+measure; Absolute and Relative measures of dispersion: Range, Quartile
+Deviation, Mean Deviation, Standard Deviation, Combined Standard Deviation
+and their Coefficients; Raw and Central Moments and their relation; Measures of
+Skewness and Kurtosis.
+12
+III Elementary Probability Theory: Definitions of Probability; Trial, Random
+experiment, Sample space, Events, Mutually Exclusive, Exhaustive and
+Complementary Events; Axioms of probability; Conditional Probability;
+12
+Independent and Dependent Events; Addition and Multiplication Laws of
+Probability.
+Probability Distributions; Random variables. Discrete and continuous random
+variables; Mathematical Expectation; Properties of Expectation; Binomial
+Distribution; Normal Distribution.
+IV Statistical Estimation Theory: Estimation of Parameters, Unbiased Estimates,
+Efficient Estimates, Point Estimates and Interval Estimates; Confidence-Interval
+Estimates of Population Parameters, Probable Error.
+Elementary Sampling Theory: Sampling Theory, Random Samples and
+Random Numbers, Sampling With and Without Replacement,
+Testing of Hypotheses: Statistical Hypotheses, Type I and Type II Errors, Level
+of Significance, Power of a test; Two-Tailed and One-Tailed Tests, , p value;
+Large sample tests: Test of One sample mean and proportion, Test of Two
+sample mean and proportion, Tests Involving Sample Differences, Small sample
+tests: t and F test; Chi square tests.
+12
+V Correlation and regression analysis: Scatter Diagram; Pearson’s Product
+moment correlation coefficient and its properties; Spearman’s Rank
+correlation(With and without repetition); ) Concept of linear regression;
+Principle of least squares; Fitting a straight line by method of Least Squares;
+Properties of Regression equations.
+12
+Books and References:
+Sr. No. Title Author/s Publisher Edition Year
+1. Fundamental of
+Mathematical Statistics
+S.C. Gupta and V.K.
+Kapoor
+2. Statistical Methods, An
+Introductory Text
+Medhi J New Age
+International Ltd
+Second
+3. Basic Statistics Agarwal B.L New Age
+International Ltd
+4. Theory and Problems of
+Statistics, Schaum s
+Publications series
+Spiegel M.R Tata McGraw-Hill
+5. Research Methodology Kothari C.R Wiley Eastern
+Limited
+6. Elementary Probability David S Cambridge
+University Press
+7. Introduction to
+Mathematical Statistics
+Hoel P.G Asia Publishing
+House
+8. Probability and Statistical
+Inference
+Hogg R.V. and Tannis
+E.P
+McMillan
+Publishing Co. Inc
+9. Fundamentals of Statistics,
+Volume II
+Goon A.M., Gupta
+M.K., Dasgupta B
+The World Press
+Private Limited,
+Calcutta.
+Course Outcome Understand importance of statistics & probability.
+B. Sc. (Data Science) Semester – II
+Course Name: Python Programming Course Code: TCSCUSDS205
+Periods per week (1 Period is 50
+minutes)
+5
+Credits 2
+Hours Marks
+Evaluation System Theory
+examination
+2 60
+Internal -- 40(20 –Test, 10 – Tutorial, 10 –
+Active Participation)
+Course Name: Python Programming
+Practical
+Course Code: TCSCUSDSP205
+Periods per week (1 Period is 50
+minutes)
+3 (10 Practicals covering the syllabus)
+Credits 2
+Hours Marks
+Evaluation System Practical
+Examination
+2½ 50
+Internal -- --
+Objectives ● This course aims to provide conceptual understanding of
+programming in Python.
+● This course aims to provide the basics understanding of utilities in
+Python.
+Unit Details Lectures
+I Introduction: The Python Programming Language, History, features, Installing
+Python, Running Python program, Debugging : Syntax Errors, Runtime Errors,
+Semantic Errors, Experimental Debugging, Formal and Natural Languages, The
+Difference Between Brackets, Braces, and Parentheses,
+Variables and Expressions Values and Types, Variables, Variable Names and
+Keywords, Type conversion, Operators and Operands, Expressions, Interactive
+Mode and Script Mode, Order of Operations. Conditional Statements: if, if-else,
+nested if –else. Looping: for, while, nested loops. Control statements: Terminating
+loops, skipping specific conditions
+12
+II Functions: Function Calls, Type Conversion Functions, Math Functions,
+Composition, Adding New Functions, Definitions and Uses, Flow of Execution,
+Parameters and Arguments, Variables and Parameters Are Local, Stack Diagrams,
+Fruitful Functions and Void Functions, Why Functions? Importing with from,
+Return Values, Incremental Development, Composition, Boolean Functions, More
+Recursion, Leap of Faith, Checking Types
+Strings: A String Is a Sequence, Traversal with a for Loop, String Slices, Strings
+Are Immutable, Searching, Looping and Counting, String Methods, The in
+Operator, String Comparison, String Operations.
+12
+III Lists: Values and Accessing Elements, Lists are mutable, traversing a List, Deleting
+elements from List, Built-in List Operators, Concatenation, Repetition, In Operator,
+Built-in List functions and methods
+Tuples and Dictionaries: Tuples, Accessing values in Tuples, Tuple Assignment,
+Tuples as return values, Variable-length argument tuples, Basic tuples operations,
+Concatenation, Repetition, in Operator, Iteration, Built-in Tuple Functions Creating
+a Dictionary, Accessing Values in a dictionary, Updating Dictionary, Deleting
+Elements from Dictionary, Properties of Dictionary keys, Operations in Dictionary,
+Built-In Dictionary Functions, Built-in Dictionary Methods. Files: Text Files, The
+File Object Attributes, Directories
+12
+IV Regular Expressions – Concept of regular expression, various types of regular
+expressions, using match function.
+Classes and Objects: Overview of OOP (Object Oriented Programming), Class
+Definition, Creating Objects, Instances as Arguments, Instances as return values,
+Built-in Class Attributes, Inheritance, Method Overriding, Data Encapsulation, Data
+Hiding
+Multithreaded Programming: Thread Module, creating a thread, synchronizing
+threads, multithreaded priority queue
+Modules: Importing module, Creating and exploring modules, Math module,
+Random module, Time module
+12
+V Functions: Function Calls, Type Conversion Functions, Math Functions,
+Composition, Adding New Functions, Definitions and Uses, Flow of Execution,
+Parameters and Arguments, Variables and Parameters Are Local, Stack Diagrams,
+Fruitful Functions and Void Functions, Why Functions? Importing with from,
+Return Values, Incremental Development, Composition, Boolean Functions, More
+Recursion, Leap of Faith, Checking Types
+Strings: A String Is a Sequence, Traversal with a for Loop, String Slices, Strings
+Are Immutable, Searching, Looping and Counting, String Methods, The in
+Operator, String Comparison, String Operations.
+12
+Books and References:
+Sr. No. Title Author/s Publisher Edition Year
+1. Think Python Allen Downey O’Reilly 1st 2012
+2. An Introduction to
+Computer Science using
+Python 3
+Jason Montojo,
+Jennifer Campbell,
+Paul Gries
+SPD 1st 2014
+3. Python GUI Programming
+Cookbook
+Burkhard A. Meier Packt 2015
+4. Introduction to Problem
+Solving with Python
+E. Balagurusamy TMH 1st 2016
+5. Murach’s Python
+programming
+Joel Murach,
+Michael Urban
+SPD 1st 2017
+6. Object-oriented
+Programming in Python
+Michael H.
+Goldwasser, David
+Letscher
+Pearson Prentice
+Hall
+1st 2008
+7. Exploring Python Budd TMH 1st 2016
+Course Outcome Understand importance of programs in Python.

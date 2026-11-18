@@ -1,0 +1,607 @@
+
+
+
+
+ 
+
+
+Syllabus for
+T.Y.B.Sc.
+Program: Bachelor of Science
+Course: Data Science (TCSCDS)
+
+
+Choice Based Credit System (CBCS)
+With Effect from
+Academic Year 2021 - 2022
+
+
+
+
+
+
+
+
+SEMESTER V:
+●	Software Project Management
+●	Artificial intelligence
+●	Business Intelligence and data Visualization using Tableau/Power BI.
+●	Big Data Analytics using Hadoop
+●	One Elective Paper 
+o	Marketing and Retail Analytics
+o	Business Ethics and Environmental science 
+●	Project Stage-I
+●	Seminar Stage-I (On Selected Topic)
+SEMESTER VI:
+●	Machine learning 
+●	Cloud Computing
+●	Enterprise Java
+●	Knowledge Management
+●	Internet of Things
+●	Internship/Project Stage-II
+
+B. Sc. (Data Science) 	Semester – V
+Course Name: Software Project Management	Course Code: TCSCUSDS501 
+Periods per week (1 Period is 50 minutes) 	5 
+Credits 	2 
+	Hours                                            	Marks
+Evaluation System 	Theory Examination 	2½ 	60
+	Internal	-- 	40(20 –Test, 10 – Tutorial, 10 – Active Participation)
+Course Name: Project Stage I	Course Code: TCSCUSDSP501
+Periods per week (1 Period is 50 minutes) 	3 (10 Practicals covering the syllabus) 
+Credits 	2 
+	Hours	Marks
+Evaluation System 	Practical Examination 	2½ 	50 
+Internal 	-- 	-- 
+
+Objectives	●	This course aims to provide conceptual understanding of Project management.
+●	This course aims to provide the basics understanding of how to schedule project with different development strategies.
+
+
+Unit 	Details 	Lectures 
+I 	Introduction to Software Project Management: Introduction, Why is Software Project Management Important?  What is a Project? Software Projects versus Other Types of Project, Contract Management and Technical Project Management, Activities Covered by Software Project Management, Plans, Methods and Methodologies, Some Ways of Categorizing Software Projects, Project Charter, Stakeholders, Setting Objectives, The Business Case, Project Success and Failure, What is Management? Management Control, Project Management Life Cycle, Traditional versus Modern Project Management Practices. Project Evaluation and Programme Management: Introduction, Business Case, Project Portfolio Management, Evaluation of Individual Projects, Cost–benefit Evaluation Techniques, Risk Evaluation, Programme Management, Managing the Allocation of Resources within Programmes, Strategic Programme Management, Creating a Programme, Aids to Programme Management, Some Reservations about Programme Management, Benefits Management. An Overview of Project Planning: Introduction to Step Wise Project Planning, Step 0: Select Project, Step 1: Identify Project Scope and Objectives, Step 2: Identify Project Infrastructure, Step 3: Analyse Project Characteristics, Step 4: Identify Project Products and Activities, Step 5: Estimate Effort for Each Activity, Step 6: Identify Activity Risks, Step 7: Allocate Resources, Step 8: Review/Publicize Plan, Steps 9 and 10: Execute Plan/Lower Levels of Planning	12 
+II 	Selection of an Appropriate Project Approach:Introduction, Build or Buy? Choosing Methodologies and Technologies, Software Processes and Process Models, Choice of Process Models, Structure versus Speed of Delivery, The Waterfall Model, The Spiral Model, Software Prototyping, Other Ways of Categorizing Prototypes, Incremental Delivery, Atern/Dynamic Systems Development Method, Rapid Application Development, Agile Methods, Extreme Programming (XP), Scrum, Lean Software Development, Managing Iterative Processes, Selecting the Most Appropriate Process Model. Software Effort Estimation: Introduction, Where are the Estimates Done? Problems with Over- and Under-Estimates, The Basis for Software Estimating, Software Effort Estimation Techniques, Bottom up Estimating, The Top-down Approach and Parametric Models, Expert Judgement, Estimating by Analogy, Albrecht Function Point Analysis, Function Points Mark II, COSMIC Full Function Points, COCOMO II: A Parametric Productivity Model, Cost Estimation,  Staffing Pattern, Effect of Schedule Compression, Capers Jones Estimating Rules of Thumb.	12 
+III	Activity Planning: Introduction, Objectives of Activity Planning, When to Plan, Project Schedules, Projects and Activities, Sequencing and Scheduling Activities, Network Planning Models, Formulating a Network Model, Adding the Time Dimension, The Forward Pass, Backward Pass, Identifying the Critical Path, Activity Float, Shortening the Project Duration, Identifying Critical Activities, Activity-on-Arrow Networks. Risk Management: Introduction, Risk, Categories of Risk, Risk Management Approaches, A Framework for Dealing with Risk, Risk Identification, Risk Assessment, Risk Planning, Risk Management, Evaluating Risks to the Schedule, Boehm‟s Top 10 Risks and Counter Measures, Applying the PERT Technique, Monte Carlo Simulation, Critical Chain Concepts. Resource Allocation: Introduction, Nature of Resources, Identifying Resource Requirements, Scheduling Resources, Creating Critical Paths, Counting the Cost, Being Specific, Publishing the Resource Schedule, Cost Schedules, Scheduling Sequence.	12 
+IV	Monitoring and Control: Introduction, Creating the Framework, Collecting the Data, Review, Visualizing Progress, Cost Monitoring, Earned Value Analysis, Prioritizing Monitoring, Getting the Project Back to Target, Change Control, Software Configuration Management (SCM). Managing Contracts: Introduction, Types of Contract, Stages in Contract Placement, Typical Terms of a Contract, Contract Management, Acceptance. Managing People in Software Environments: Introduction, Understanding Behaviour, Organizational Behaviour: A Background, Selecting the Right Person for the Job, Instruction in the Best Methods, Motivation, The Oldham–Hackman Job Characteristics Model, Stress, Stress Management, Health and Safety, Some Ethical and Professional Concerns.	12 
+V	Working in Teams: Introduction, becoming a Team, Decision Making, Organization and Team Structures, Coordination Dependencies, Dispersed and Virtual Teams, Communication Genres, Communication Plans, Leadership. Software Quality: Introduction, The Place of Software Quality in Project Planning, Importance of Software Quality, Defining Software Quality, Software Quality Models, ISO 9126, Product and Process Metrics, Product versus Process Quality Management, Quality Management Systems, Process Capability Models, Techniques to Help Enhance Software Quality, Testing, Software Reliability, Quality Plans. Project Closeout: Introduction, Reasons for Project Closure, Project Closure Process, Performing a Financial Closure, Project Closeout Report.	12
+
+Books and References:
+Sr. No.	Title	Author/s	Publisher	Edition	Year
+1.	Software Project Management	Bob Hughes, Mike Cotterell, Rajib Mall	TMH	6th	2018
+2.	Project Management and Tools & Technologies – An overview	Shailesh Mehta	SPD	1st	2017
+3.	Software Project
+Management	Walker Royce	Pearson		2005
+
+Course Outcome	●	Understand importance of project development within timeline and maintaining profitability.
+
+B. Sc. (Data Science)	Semester – V
+Course Name: Artificial intelligence	Course Code: TCSCUSDS502
+Periods per week (1 Period is 50 minutes)	5
+Credits	2
+	Hours	Marks
+Evaluation System	Theory examination	2	60
+	Internal	--	40(20 –Test, 10 – Tutorial, 10 – Active Participation)
+
+Course Name: Artificial intelligence Practical 	Course Code: TCSCUSDSP502
+Periods per week (1 Period is 50 minutes) 	3 (10 Practicals covering the syllabus) 
+Credits 	2 
+	Hours	Marks
+Evaluation System 	Practical Examination 	2½ 	50 
+Internal 	-- 	-- 
+
+Objectives	●	This course aims to provide conceptual understanding of Artificial Intelligence.
+●	This course aims to provide the basic understanding of roll of AI towards Data Analytics.
+
+
+
+
+Unit	Details	Lectures
+I	Introduction: What is Artificial Intelligence? Foundations of AI, history, the state of art AI today.
+Intelligent Agents: agents and environment, good behavior, nature of
+environment, the structure of agents.	12
+II	Solving Problems by Searching: Problem solving agents, examples problems, searching for solutions, uninformed search, informed search strategies, heuristic functions.
+Beyond Classical Search: local search algorithms, searching with non- deterministic action, searching with partial observations, online search agents and unknown environments.	12
+III	Adversarial Search: Games, optimal decisions in games, alpha-beta pruning, stochastic games, partially observable games, state-of-the-are game programs.
+Logical Agents: Knowledge base agents, The Wumpus world, logic, propositional logic, propositional theorem proving, effective propositional model checking, agents based on propositional logic.	12
+IV	First Order Logic: Syntax and semantics, using First Order Logic, Knowledge engineering in First Order Logic.
+Inference in First Order Logic: propositional vs. First Order,
+unification and lifting, forward and backward chaining, resolution.	12
+V	Planning: Definition of Classical Planning, Algorithms for planning as state space search, planning graphs, other classical planning approaches, analysis of planning approaches, Time, Schedules and resources, hierarchical planning, Planning and Acting in Nondeterministic Domains, multiagent planning,
+Knowledge Representation: Categories and Objects, events, mental events and objects, reasoning systems for categories, reasoning with
+default information, Internet shopping world	12
+
+Books and References:
+Sr.
+No.	Title	Author/s	Publisher	Edition	Year
+1.	Artificial Intelligence: A Modern Approach	Stuart Russel and Peter Norvig	Pearson	3rd	2015
+2.	A First Course in
+Artificial Intelligence	Deepak Khemani	TMH	First	2017
+3.	Artificial Intelligence:
+A Rational Approach	Rahul Deva	Shroff
+Publishers	1st	2018
+4.	Artificial Intelligence	Elaine Rich, Kevin Knight and
+Shivashankar Nair	TMH	3rd	2009
+5.	Artificial Intelligence &
+Soft Computing for Beginners	Anandita Das Bhattacharjee	SPD	1st	2013
+
+
+Course Outcome	●	Understand importance of AI in Data Science and apply in analytics.
+
+
+B. Sc. (Data Science) 	Semester – V
+Course Name: Business Intelligence and data Visualization using Tableau/Power BI.	Course Code: TCSCUSDS503 
+Periods per week (1 Period is 50 minutes) 	5 
+Credits 	2 
+	Hours                                            	Marks
+Evaluation System 	Theory Examination 	2½ 	60 
+	Internal	-- 	40(20 –Test, 10 – Tutorial, 10 – Active Participation)
+
+Course Name: Business Intelligence and data Visualization using Tableau/Power BI.Practical 	Course Code: TCSCUSDSP503
+Periods per week (1 Period is 50 minutes) 	3 (10 Practicals covering the syllabus)
+Credits 	2 
+	Hours	Marks
+Evaluation System 	Practical Examination 	2½ 	50 
+Internal 	-- 	-- 
+
+
+Objectives	●	This course aims to provide conceptual understanding of Business Intelligence.
+●	Understanding the role of automated business decisions by implementing analytics.
+
+
+
+Unit	Details	Lectures
+I	Business intelligence: Effective and timely decisions, Data, information and knowledge, The role of mathematical models, Business intelligence architectures, Ethics and business intelligence
+Decision support systems: Definition of system, Representation of the decision-making process, Evolution of information systems, Definition of decision support system, Development of a decision support system	12
+II	Mathematical models for decision making: Structure of mathematical models, Development of a model, Classes of models
+Data mining: Definition of data mining, Representation of input data , Data mining process, Analysis methodologies
+Data preparation: Data validation, Data transformation, Data reduction	12
+III	Classification: Classification problems, Evaluation of classification models, Bayesian methods, Logistic regression, Neural networks, Support vector machines
+Clustering: Clustering methods, Partition methods, Hierarchical methods, Evaluation of clustering models	12
+IV	Business intelligence applications:
+Marketing models: Relational marketing, Sales force management,
+Logistic	and	production	models:	Supply	chain	optimization,
+Optimization models for logistics planning, Revenue management systems.
+Data envelopment analysis: Efficiency measures, Efficient frontier, The CCR model, Identification of good operating practices	12
+V	Knowledge Management: Introduction to Knowledge Management, Organizational Learning and Transformation, Knowledge Management Activities,	Approaches	to	Knowledge	Management,	Information Technology (IT) In Knowledge Management, Knowledge Management Systems Implementation, Roles of People in Knowledge Management Artificial Intelligence and Expert Systems:
+Concepts and Definitions of Artificial Intelligence, Artificial Intelligence Versus Natural Intelligence, Basic Concepts of Expert Systems, Applications of Expert Systems, Structure of Expert Systems,
+Knowledge Engineering, Development of Expert Systems	12
+
+Books and References:
+Sr. No.	Title	Author/s	Publisher	Edition	Year
+1.	Business Intelligence: Data Mining and Optimization for
+Decision Making	Carlo Vercellis	Wiley	First	2009
+2.	Decision support and Business Intelligence Systems	Efraim Turban, Ramesh Sharda, DursunDelen	Pearson	Ninth	2011
+3.	Fundamental of Business Intelligence	Grossmann W, Rinderle-Ma	Springer	First	2015
+
+
+
+Course Outcome	●	Understand importance of different tools for data analysis.
+
+
+B. Sc. (Data Science) 	Semester – V
+Course Name: Big Data Analytics using Hadoop	Course Code: TCSCUSDS504
+Periods per week (1 Period is 50 minutes) 	5 
+Credits 	2 
+	Hours                                            	Marks
+Evaluation System 	Theory Examination 	2½ 	60
+	Internal	-- 	40(20 –Test, 10 – Tutorial, 10 – Active Participation)
+
+Course Name: Big Data Analytics using Hadoop Practical 	Course Code: TCSCUSDSP504
+Periods per week (1 Period is 50 minutes) 	3 (10 Practicals covering the syllabus) 
+Credits 	2 
+	Hours	Marks
+Evaluation System 	Practical Examination 	2½ 	50 
+Internal 	-- 	-- 
+
+Objectives	●	This course aims to provide conceptual understanding of Big Data Technologies.
+●	Understanding the role of large data in business.
+
+
+
+Unit 	Details 	Lectures 
+I 	Introduction to Big Data, Characteristics of Data, and Big Data Evolution of Big Data, Definition of Big Data, Challenges with big data, Why Big data? Data Warehouse environment, Traditional Business Intelligence versus Big Data. State of Practice in Analytics, Key roles for New Big Data Ecosystems, Examples of big Data Analytics.
+Big Data Analytics, Introduction to big data analytics, Classification of Analytics, Challenges of Big Data, Importance of Big Data, Big Data Technologies, Data Science, Responsibilities, Soft state eventual consistency. Data Analytics Life Cycle	12 
+II 	Analytical Theory and Methods: Clustering and Associated Algorithms, Association Rules, Apriori Algorithm, Candidate Rules, Applications of Association Rules, Validation and Testing,
+Diagnostics, Regression, Linear Regression, Logistic Regression, Additional Regression Models.	12 
+III	Analytical Theory and Methods: Classification, Decision Trees, Naïve Bayes, Diagnostics of Classifiers, Additional Classification Methods, Time Series Analysis, Box Jenkins methodology, ARIMA Model, Additional methods. Text Analysis, Steps, Text Analysis Example, Collecting Raw Text, Representing Text, Term Frequency-Inverse Document Frequency (TFIDF), Categorizing Documents by Topics, Determining Sentiments	12
+IV	Data Product, Building Data Products at Scale with Hadoop, Data Science Pipeline and Hadoop Ecosystem, Operating System for Big Data, Concepts, Hadoop Architecture, Working with Distributed file system, Working with Distributed Computation, Framework for Python
+and Hadoop Streaming, Hadoop Streaming, MapReduce with  Python, Advanced MapReduce. In-Memory Computing with Spark, Spark Basics, Interactive Spark with PySpark, Writing Spark Applications.	12
+V	Distributed Analysis and Patterns, Computing with Keys, Design Patterns, Last-Mile Analytics, Data Mining and Warehousing, Structured Data Queries with Hive, HBase, Data Ingestion, Importing
+Relational data with Sqoop, Injesting stream data with flume. Analytics with higher level APIs, Pig, Spark’s higher level APIs.	12
+
+Books and References:
+Sr. No.	Title	Author/s	Publisher	Edition	Year
+1.	Big Data and Analytics	Subhashini
+Chellappan Seema Acharya
+Wiley	First	
+2.	Data Analytics with Hadoop
+An Introduction for Data Scientists	Benjamin Bengfort and
+Jenny Kim	O’Reilly		2016
+3.	Big Data and Hadoop	V.K Jain	Khanna Publishing	First	2018
+
+
+Course Outcome	●	Understand how to use Hadoop for data analysis for tera and peta bytes of data.
+
+
+B. Sc. (Data Science) 	Semester – V
+Course Name: Elective	Course Code: TCSCUSDS505
+Periods per week (1 Period is 50 minutes) 	5 
+Credits 	2 
+	Hours                                            	Marks
+Evaluation System 	Theory Examination 	2½ 	60
+	Internal	-- 	40(20 –Test, 10 – Tutorial, 10 – Active Participation)
+
+Course Name: Seminar Stage I(On selected topic)	Course Code: TCSCUSDSP505
+Periods per week (1 Period is 50 minutes) 	3 ( Presentation /Case Studies) 
+Credits 	2 
+	Hours	Marks
+Evaluation System 	Practical Examination 	2½ 	50 
+Internal 	-- 	-- 
+
+Objectives	●	This course aims to provide conceptual understanding of Marketing in business.
+●	Understanding the Retail Business.
+
+
+Marketing and Retail Analytics
+Unit 	Details 	Lectures 
+I 	Introduction: Retailer Goodwill, The inside Scoop: Retail Power Brokers.
+Retail Organization: Real Estate marketing, Creative Advertising Marketing, Operations Marketing (Research), Direct Marketing, Strategic Marketing. Communication to the Retail Organization, Point of Sale versus Market Basket Data, Data is Gold, Data as Revenue: The price of retail data	12 
+II 	Retail & Data Analytics:
+Hard-Core data terms, Market Basket, Data Storage, Data without use is overhead.
+Case studies and Practical Examples of Data-Related: Retail Projects, Trade area modeling, Real Estate site selection modeling, Competitor Threat Analytics, Merchandise Mix modeling: Combine multiple data sources, Celebrity Marketing: Tracking Effectiveness, House brand versus Name Brand, E-business: Clicks & Mortar. Affinity Merchandising: Merchandise Cross-sell Case Study, Market Basket Analytics Example, Store Management Cross selling, Single Category Affinity Analysis: Paper Towels, Bets Checkout register impulse items for Christmas Season Case study.	12 
+III 	The Apparel Industry:
+Many Types of Apparel Business, Retailer Building and Location, Location, Location. Who is My customer? Size up the Opportunity and Show me the money!, Evolution of a brand: Not your father’s Blue Jeans, Diversification: Spread Risks over Multiple Businesses. Critical, Need to Know Information in Apparel Analytics, Seasonality: Styles Change like the Wind, Seasonal Counterpoint, Merchandise Placement and Presentation: From Racks to Riches, Accessories, Next Best Offers, Promotions: Lifeblood of the Apparel Business, Retail in General: Impulse Buying.
+Importance of Geography and Demographics:
+Understanding the tools and the data requirements, How Geographic Information Systems work: Science behind the tools, GIS Layers of Information: Building a Map Layer by Layer, How Geography Fits into Retail: Location, Location and Location!. Retail Geography: Data and Lots of IT, Retail Data: Internal and Collection, Retail Trade Areas: Differing Methods for Debate, Zip Code Data: Forecasting Application Volume by Store, Now that we understand the toll and the data, What do we do? Card Preference Opportunity by Zip Code: Case Study, Example of Sales Penetration Map, Market Observations: Additional uses of the GIS Tool.	12 
+IV 	In-Store Marketing and Presentation: Understanding the Different Store Designs, Old Theories of Merchandise Placement New Theories of Merchandise Placement Mass Merchandisers Were Slow to Catch On: Does Convenience Translate into Sales?	All about Pricing Everyday Low Price Loyalty Discount Philosophies Tiered Pricing	Types and Sizes: Retail Store Strategies	Store in a Store: Make Shopping Convenient What’s in a Store: Convenience Stores to Hypermart Stores Hypermarts: When Is Big Too Big? Warehouse Clubs: Paying for the Privilege to Shop Shopping by Design: Traffic Patterns Category Management: Science behind the Merchandise Mix Merchandise Placement: Strategy behind the Placement Specialty Departments: Coffee, Breakfast, and Pizza Other Specialty Departments,	Receiving Dock, Stocking the Counters, In-Store Media: Advertising or  Just Displays? Receipt Messages, In-Store Events, Holidays, Analytics: Tracking a Moving Target, Marketing Outside of the Store	105
+12 
+V 	Store Operations and Retail Data
+ Setting Up the Store for Success: Strategic Uses of Data, Labor Forecasting, Importance of Accurate Labor Forecasting: The Cost of  Doing Business, Consumer Differentiation at the Point of Sale Register,Heating and Cooling: Centralized Thermostats, Intrastore  Communication, Replenishment and POS Sales: Cause and Effect, In-Store Career Path: Stockperson to Store Manager.
+Loyalty Marketing
+Loyalty Programs, Who Is the Sponsor for the Program? Questions to Answer before You Begin, Total Program Incentive: Are You Loyal? From the Consumer Finance Credit Card Retail Perspective, Loyalty Segments: Develop Them Early, Loyalty at POS: Different Stages and Levels of Loyalty, Kmart’s School Spirit Loyalty Program, Australian Loyalty, FlyBuys Rewards and Loyalty: Australia, Additional Loyalty Programs, The Retail World Is Changing, Social Media.	12 
+
+Books and References:
+Sr. No.	Title	Author/s	Publisher	Edition	Year
+1.	Retail Analytics 
+The 
+Secret Weapon	EMMETT COX	Wiley & SAS Business Series		2012
+2.					
+3.					
+
+Course Outcome	●	Understand importance of Marketing in retail business.
+
+
+
+
+
+
+
+
+
+Objectives	●	This course aims to provide conceptual understanding of Social Responsibilities.
+●	Understanding the sustainable business development.
+
+Business Ethics and Environmental Science
+Unit 	Details 	Lectures 
+I 	Introduction to Environmental Studies
+Importance of Environmental Education, Environmental Literacy, Environmental Engineering, Environmentalism, Components of Environment and their Interactions, Man and the Biosphere, Impacts of Development on Environment.
+Initiatives and Standards:
+Global Initiatives: United Nations, Basel Action Network, Basel Convention, North America: The United States, Canada, Australia, Europe, WEEE Directive, RoHS, National Adoption, Asia: Japan, China, Korea.	12 
+II 	Social Issues and the Environment
+From Unsustainable to Sustainable Development, Urban Problems Related to Energy, Water Conservation, Watershed Management, Resettlement and Rehabilitation, Environmental Ethics, Acid Rain, Ozone Layer Depletion, Greenhouse Effect, Global Warming and Climate Change, Pollution Control Boards and Control Pollution Acts in India, Nuclear Hazards and Accidents, Environmental Impact Assessment, Risk Management, Precautionary Principle, Polluter-Pays Principle, The Beneficiary-Pays Principle, Role of Non-Government Organizations, ISO 14000 Series of Environmental Management Standards, Economy and Environment	12 
+III 	Environmental Management
+Environmental Impact Assessment, Methodology, Waste as a Resource, Environmental Laws, Requirements of a Contract, Environmental Legislations, Powers and Functions of Pollution Control Boards, Case Studies, Environmental Management Plan, Environmental Audit, Policies for Quality Improvement, Problems, Policy
+Sustainable Development
+Ethics, Laws of Nature, Progress, Environmental Stress, Sustainability, Self-purification and Regeneration, Action Plan, Computerization and Information Technology	12 
+IV 	Recycling:
+Problems, China, Africa, Materials, Means of Disposal, Recycling, Refurbishing, Make the Decision, Life Cycle, from beginning to end, Life, Cost, Green Design, Recycling Companies, Finding the Best One, Checklist, Certifications, Hard Drive Recycling, Consequences, cleaning a Hard Drive, Pros and cons of each method, CDs and DVDs, good and bad about CD and DVDs disposal, Change the mind-set, David vs. America Online
+Hardware Considerations:
+Certification Programs, EPEAT, RoHS, Energy Star, Computers, Monitors, Printers, Scanners, All-in-Ones, Thin Clients, Servers, Blade Servers, Consolidation, Products, Hardware Considerations, Planned Obsolescence, Packaging, Toxins, Other Factors, Remote Desktop,
+Using Remote Desktop, Establishing a Connection, In Practice	12 
+V 	Greening Your Information Systems:
+Initial	Improvement	Calculations,	Selecting	Metrics,	Tracking Progress, Change Business Processes, Customer Interaction, Paper Reduction, Green Supply Chain, Improve Technology Infrastructure, Reduce PCs and Servers, Shared Services, Hardware Costs, Cooling. Staying Green:
+Organizational Check-ups, Chief Green Officer, Evolution, Sell the CEO, SMART Goals, Equipment Check-ups, Gather Data, Tracking the data, Baseline Data, Benchmarking, Analyse Data, Conduct Audits,
+Certifications, Benefits, Realities, Helpful Organizations.	12 
+
+Books and References:
+Sr. No.	Title	Author/s	Publisher	Edition	Year
+1.	Environmental Studies	Benny Joseph	McGrawHill 	3rd 	2017
+2.	Principles of Environmental Science and Engineering 	P. Venugopala Rao 	PHI Learning 	6th 	2014
+3.	Introduction to Environmental Engineering 	Gilbert M Master 	Pearson 	3rd 	2015
+4.	Environmental Ethics: A Very Short Introduction 	Robin Attfield 	Oxford 	1st 	2019
+5.	Green IT	Toby Velte, Anthony Velte,
+Robert Elsenpeter	McGraw Hill		2008
+6.	Green Data Center: Steps for the Journey	Alvin Galea, Michael Schaefer, Mike Ebbers	Shroff Publishers and
+Distributers		2011
+7.	Green Computing and Green IT Best Practice	Jason Harris	Emereo		
+8
+
+
+.	Green Computing
+Tools and Techniques for
+Saving Energy, Money and Resources	Bud E. Smith	CRC Press		2014
+
+
+Course Outcome	●	Understand need of maintaining balance between social, ecological and economical development.
+
+
+B. Sc. (Data Science)	Semester – VI
+Course Name: Machine learning	Course Code: TCSCUSDS601
+Periods per week (1 Period is 50 minutes)	5
+Credits	2
+	Hours	Marks
+Evaluation System	Theory examination	2	60
+	Internal	--	40(20 –Test, 10 – Tutorial, 10 – Active Participation)
+
+
+Course Name: Machine learning Practical 	Course Code: TCSCUSDSP601
+Periods per week (1 Period is 50 minutes) 	3 (10 Practicals covering the syllabus) 
+Credits 	2 
+	Hours	Marks
+Evaluation System 	Practical Examination 	2½ 	50 
+Internal 	-- 	-- 
+
+
+
+Objectives	●	This course aims to provide conceptual understanding of Machine learning.
+●	This course aims to provide the basic understanding of machine learning towards Artificial Intelligence.
+
+
+
+	
+Unit 	Details 	Lectures 
+   I	Introduction: Machine learning, Examples of Machine Learning Problems, Structure of Learning, learning versus Designing, Training versus Testing, Characteristics of Machine learning tasks, Predictive and descriptive tasks, Machine learning Models: Geometric Models, Logical Models, Probabilistic Models. Features: Feature types, Feature Construction and Transformation, Feature Selection.	12
+
+II	Classification and Regression: Classification: Binary Classification- Assessing Classification performance, Class probability Estimation Assessing class probability Estimates, Multiclass Classification. Regression: Assessing performance of Regression- Error measures, Overfitting- Catalysts for Overfitting, Case study of Polynomial Regression. Theory of Generalization:
+Effective number of hypothesis, Bounding the Growth function, VC Dimensions, Regularization theory.	12
+
+III	Linear Models: Least Squares method, Multivariate Linear Regression, Regularized Regression, Using Least Square regression for Classification. Perceptron, Support Vector Machines, Soft Margin SVM, Obtaining probabilities from Linear classifiers, Kernel methods for non-Linearity.	12
+
+IV	Logic Based and Algebraic Model: Distance Based Models: Neighbours and Examples, Nearest Neighbours Classification, Distance based clustering-K means Algorithm, Hierarchical clustering, Rule Based Models: Rule learning for subgroup discovery, Association rule mining. Tree Based Models: Decision Trees, Ranking and Probability estimation Trees, Regression trees, Clustering Trees.	12
+
+V	Probabilistic Model:
+Normal Distribution and Its Geometric Interpretations, Naïve Bayes Classifier, Discriminative learning with Maximum likelihood, Probabilistic Models with Hidden variables: Estimation-Maximization Methods, Gaussian Mixtures, and Compression based Models.
+Trends In Machine Learning : Model and Symbols- Bagging and Boosting, Multitask learning, Online learning and Sequence Prediction, Data Streams and Active Learning, Deep Learning, Reinforcement Learning.	12
+
+
+Books and References:
+Sr. No.	Title	Author/s	Publisher	Edition	Year
+1.	Machine Learning: The Art and Science of Algorithms that Make Sense of Data	Peter Flach	Cambridge University Press		2012
+2.	Introduction to Statistical Machine Learning with
+Applications in R	Hastie, Tibshirani, Friedman	Springer	2nd	2012
+3.	Introduction to Machine Learning	Ethem Alpaydin	PHI	2nd	2013
+
+
+
+Course Outcome	●	Understand how to make programs so that it learns various facts.
+
+
+
+
+
+
+
+
+
+B. Sc. (Data Science)	Semester – IV
+Course Name: Cloud Computing	Course Code: TCSCUSDS602
+Periods per week (1 Period is 50 minutes)	5
+Credits	2
+	Hours	Marks
+Evaluation System	Theory examination	2	60
+	Internal	--	40(20 –Test, 10 – Tutorial, 10 – Active Participation)
+
+
+
+Course Name: Cloud Computing  Practical 	Course Code: TCSCUSDSP602
+Periods per week (1 Period is 50 minutes) 	3 (10 Practicals covering the syllabus) 
+Credits 	2 
+	Hours	Marks
+Evaluation System 	Practical Examination 	2½ 	50 
+Internal 	-- 	-- 
+	
+Objectives	●	This course aims to provide conceptual understanding of cloud based computing.
+●	This course aims to provide the basics understanding of utilizing cloud based resources.
+
+
+
+
+Unit 	Details 	Lectures 
+   I	Introduction to Cloud Computing: Introduction, Historical developments, Building Cloud Computing Environments, Principles of Parallel and Distributed Computing: Eras of Computing, Parallel v/s distributed computing, Elements of Parallel Computing, Elements of distributed computing, Technologies for distributed computing. Virtualization: Introduction, Characteristics of virtualized environments, Taxonomy of virtualization techniques, Virtualization and cloud computing, Pros and cons of virtualization, Technology examples. Logical Network Perimeter, Virtual Server, Cloud Storage Device, Cloud usage monitor, Resource replication, Ready-made environment.	12
+
+II	Cloud Computing Architecture: Introduction, Fundamental concepts and models, Roles and boundaries, Cloud Characteristics, Cloud Delivery models, Cloud Deployment models, Economics of the cloud, Open challenges. Fundamental Cloud Security: Basics, Threat agents, Cloud security threats, additional considerations. Industrial Platforms and New Developments: Amazon Web Services, Google App Engine, Microsoft Azure.	12
+
+III	Specialized Cloud Mechanisms: Automated Scaling listener, Load Balancer, SLA monitor, Pay-per-use monitor, Audit monitor, fail over system, Hypervisor, Resource Centre, Multidevice broker, State Management Database. Cloud Management Mechanisms: Remote administration system, Resource Management System, SLA Management System, Billing Management System, Cloud Security Mechanisms: Encryption, Hashing, Digital Signature, Public Key Infrastructure (PKI), Identity and Access Management (IAM), Single Sign-On (SSO), Cloud-Based Security Groups, Hardened Virtual Server Images	12
+
+
+IV	Fundamental Cloud Architectures: Workload Distribution Architecture, Resource Pooling Architecture, Dynamic Scalability Architecture, Elastic Resource Capacity Architecture, Service Load Balancing Architecture, Cloud Bursting Architecture, Elastic Disk Provisioning Architecture, Redundant Storage Architecture. Advanced Cloud Architectures: Hypervisor Clustering Architecture, Load Balanced Virtual Server Instances Architecture, Non-Disruptive Service Relocation Architecture, Zero Downtime Architecture, Cloud Balancing Architecture, Resource Reservation Architecture, Dynamic Failure Detection and Recovery Architecture, Bare-Metal Provisioning
+Architecture, Rapid Provisioning Architecture, Storage Workload Management Architecture	12
+
+V	Cloud Delivery Model Considerations: Cloud Delivery Models: The Cloud Provider Perspective, Cloud Delivery Models: The Cloud Consumer Perspective, Cost Metrics and Pricing Models: Business Cost Metrics, Cloud Usage Cost Metrics, Cost Management Considerations, Service Quality Metrics and SLAs: Service Quality Metrics, SLA Guidelines	12
+
+
+Books and References:
+Sr. No.	Title	Author/s	Publisher	Edition	Year
+1.	Mastering Cloud Computing Foundations and Applications Programming	Rajkumar Buyya, Christian Vecchiola, S. Thamarai Selvi	Elsevier	-	2013
+2.	Cloud Computing Concepts, Technology & Architecture	Thomas Erl, Zaigham Mahmood, and Ricardo Puttini	Prentice Hall	-	2013
+3.	Distributed	and	Cloud Computing, From Parallel
+Processing to the Internet of Things	Kai Hwang, Jack Dongarra, Geoffrey Fox	MK
+Publishers	--	2012
+
+Course Outcome	●	Understand importance of using resources from internet.
+
+B. Sc. (Data Science)	Semester – VI
+Course Name: Enterprise Java	Course Code: TCSCUSDS603
+Periods per week (1 Period is 50 minutes)	5
+Credits	2
+	Hours	Marks
+Evaluation System	Theory examination	2	60
+	Internal	--	40(20 –Test, 10 – Tutorial, 10 – Active Participation)
+
+Course Name: Enterprise Java Practical 	Course Code: TCSCUSDSP603
+Periods per week (1 Period is 50 minutes) 	3 (10 Practicals covering the syllabus) 
+Credits 	2 
+	Hours	Marks
+Evaluation System 	Practical Examination 	2½ 	50 
+Internal 	-- 	-- 
+
+Objectives	●	This course aims to provide conceptual understanding of advanced features of Java Programming.
+●	This course aims to provide the basic understanding of project development using Java.
+
+
+Unit 	Details 	Lectures 
+I	Understanding Java EE: What is an EnterpriseApplication? What is javaenterpriseedition? JavaEETechnologies, JavaEEevolution, Glassfishserver
+JavaEE	Architecture, Server and	Containers:
+Types of System Architecture, JavaEEServer, JavaEEContainers. Introduction	to	Java	Servlets:	TheNeedforDynamicContent, JavaServletTechnology, WhyServlets? WhatcanServletsdo?
+Servlet API and Lifecycle: JavaServletAPI, TheServletSkeleton, TheServletLifeCycle, ASimpleWelcomeServlet 
+WorkingwithServlets:	GettingStarted, UsingAnnotationsInsteadofDeploymentDescriptor.
+Working	with	Databases:	WhatIsJDBC?	JDBCArchitecture, AccessingDatabase, TheServletGUI and DatabaseExample.	12
+
+II	Request Dispatcher: Resquestdispatcher Interface, Methods of Requestdispatcher, Requestdispatcher Application.
+COOKIES:	KindsofCookies,	WhereCookiesAreUsed? CreatingCookiesUsingServlet, DynamicallyChangingtheColorsofAPage
+SESSION:	WhatAreSessions?	LifecycleofHttpSession, SessionTrackingWithServletAPI, AServlet Session Example Workingwith		Files:			UploadingFiles, CreatinganUploadFileApplication,		DownloadingFiles, CreatingaDownloadFileApplication.
+Workingwith	Non-Blocking	I/O:	CreatingaNon- BlockingReadApplication,	CreatingTheWeb		Application, CreatingJavaClass, Creating Servlets, Retrieving The File, Creating index.jsp	12
+
+III	Introduction To Java ServerPages: WhyuseJava ServerPages? DisadvantagesOfJSP,	JSPv\sServlets,	LifeCycleofaJSPPage, HowdoesaJSPfunction? HowdoesJSPexecute? AboutJava ServerPages Getting Started With Java ServerPages: Comments, JSPDocument, JSPElements, JSPGUIExample.
+Action	Elements:	IncludingotherFiles, ForwardingJSPPagetoAnotherPage, PassingParametersforotherActions, LoadingaJavabean.
+Implicit	Objects,	Scopeand	ElExpressions:	ImplicitObjects, CharacterQuotingConventions, UnifiedExpressionLanguage[UnifiedEl], ExpressionLanguage.
+Java	Server	Pages	Standard	Tag	Libraries:
+WhatiswronginusingJSPScriptletTags? HowJSTLFixesJSPScriptlet'sShortcomings?	DisadvantagesOfJSTL, TagLibraries.	12
+
+
+IV	Introduction To EnterpriseJavabeans: EnterpriseBeanArchitecture, BenefitsofEnterpriseBean,	TypesofEnterpriseBean,
+AccessingEnterpriseBeans,	EnterpriseBeanApplication, PackagingEnterpriseBeans
+Workingwith Session Beans: WhentouseSessionBeans? TypesofSessionBeans,	RemoteandLocalInterfaces,
+AccessingInterfaces,	LifecycleofEnterpriseBeans, PackagingEnterpriseBeans, Exampleof StatefulSessionBean, Example ofStatelessSessionBean, Example of SingletonSessionBeans.
+Working	with	Message	DrivenBeans: LifecycleofaMessageDrivenBean,		UsesofMessageDrivenBeans, TheMessage DrivenBeansExample.
+Interceptors: Request andInterceptor, Defining An Interceptor, AroundInvokeMethod, ApplyingInterceptor, Adding An Interceptor To An Enterprise Bean, Build and Run the Web Application.
+Java Naming and Directory Interface: What is Naming Service? What is Directory Service? What is Java Naming and Directory interface? Basic Lookup, JNDI Namespace in Java EE, Resources and JNDI, Datasource Resource Definition in Java EE	12
+
+V	Persistence, Object/Relational Mapping And JPA: WhatisPersistence?	PersistenceinJava, CurrentPersistenceStandardsinJava, WhyanotherPersistenceStandards? Object/RelationalMapping,
+Introduction to JavaPersistence API: TheJavaPersistenceAPI, JPA,ORM,DatabaseandtheApplication,	ArchitectureofJPA, HowJPAWorks? JPA Specifications.
+Writing JPA Application: ApplicationRequirementSpecifications, SoftwareRequirements,	TheApplicationDevelopmentApproach, CreatingDatabaseandTablesinMysql,	creatingaWebApplication, AddingtheRequiredLibraryFiles,		creatingaJavabeanClass, CreatingPersistenceUnit[Persistence.Xml],			CreatingJSPS, TheJPAApplicationStructure, RunningtheJPAApplication.
+Introduction to Hibernate: WhatisHibernate? WhyHibernate? Hibernate,DatabaseandTheApplication,	ComponentsofHibernate, ArchitectureofHibernate, HowHibernateWorks?
+WritingHibernateApplication: ApplicationRequirementSpecifications,			SoftwareRequirements, TheApplicationDevelopmentApproach, CreatingDatabaseandTablesinMysql,	creatingaWebApplication, AddingtheRequiredLibraryFiles,		creatingaJavabeanClass, CreatingHibernateConfigurationFile,			AddingaMappingClass,
+CreatingJSPS, RunningTheHibernateApplication.	12
+
+
+Books and References:
+Sr. No.	Title	Author/s	Publisher	Edition	Year
+1.	Java EE 7 For Beginners	Sharanam Shah,  Vaishali Shah	SPD	First	2017
+2.	Java EE 8 Cookbook: Build reliable applications with  the most robust and mature technology for enterprise development
+Elder Moraes
+Packt	First	2018
+3.	Advanced Java Programming
+Uttam Kumar Roy	Oxford Press		2015
+
+
+
+
+Course Outcome	●	Understand importance of advanced features of Python.
+
+
+B. Sc. (Data Science)	Semester – VI
+Course Name: Elective I	Course Code: TCSCUSDS604
+Periods per week (1 Period is 50 minutes)	5
+Credits	2
+	Hours	Marks
+Evaluation System	Theory examination	2	60
+	Internal	--	40(20 –Test, 10 – Tutorial, 10 – Active Participation)
+
+Course Name: Elective I Practical 	Course Code: TCSCUSDSP604
+Periods per week (1 Period is 50 minutes) 	3 (10 Practicals covering the syllabus) 
+Credits 	2 
+	Hours	Marks
+Evaluation System 	Practical Examination 	2½ 	50 
+Internal 	-- 	-- 
+
+Objectives	●	This course aims to provide conceptual understanding of software development life cycle.
+●	This course aims to provide the basics understanding of project management.
+
+Knowledge Management
+Unit	Details	Lectures
+I	Introduction to Knowledge Management
+What Is Knowledge Management? - Multidisciplinary Nature of KM - The Two Major Types of Knowledge: Tacit and Explicit - Concept Analysis Technique - History of Knowledge Management - From Physical Assets to Knowledge Assets - Organizational Perspectives on Knowledge Management - Library and Information Science (LIS) Perspectives on KM - Why Is KM Important Today? - KM for Individuals, Communities, and Organizations
+Knowledge Sharing and Communities of Practice
+The Social Nature of Knowledge - Sociograms and Social Network Analysis - Community Yellow  - Knowledge-Sharing Communities - Types of Communities - Roles and Responsibilities in CoPs - Knowledge Sharing in Virtual CoPs, Practical Implications of Knowledge Sharing	12
+II	The Knowledge Management Cycle
+Major Approaches to the KM Cycle - The Meyer and Zack KM Cycle - The Bukowitz and Williams KM Cycle - The McElroy KM Cycle - The Wiig KM Cycle - An Integrated KM Cycle - Strategic Implications of the KM Cycle - Practical Considerations for Managing Knowledge
+Knowledge Management Models
+Major Theoretical KM Models - The Von Krogh and Roos Model of Organizational Epistemology - The Nonaka and Takeuchi Knowledge Spiral Model - The Choo Sense-Making KM Model - The Wiig Model for Building and Using Knowledge - The Boisot I-Space KM Model - Complex Adaptive System Models of KM - The European Foundation for Quality Management (EFQM) KM Model - The inukshuk KM Model - Strategic Implications of KM Models - Practical Implications of KM Models	12
+III	Knowledge Capture and Codification
+Tacit Knowledge Capture - Tacit Knowledge Capture at the Individual and Group Levels - Tacit Knowledge Capture at the Organizational Level - Explicit Knowledge Codification - Cognitive Maps - Decision Trees - Knowledge Taxonomies - The Relationships among Knowledge Management, Competitive Intelligence, Business Intelligence, and Strategic Intelligence - Strategic Implications of Knowledge Capture and Codification – Practical	12
+IV	Knowledge Application
+Knowledge Application at the Individual Level - Characteristics of Individual Knowledge Workers - Bloom’s Taxonomy of Learning Objectives - Task Analysis and Modeling - Knowledge Application at the Group and Organizational Levels - Knowledge Reuse - Knowledge Repositories - E-Learning and Knowledge Management Application - Strategic Implications of Knowledge Application - Practical Implications of Knowledge Application
+Knowledge Management Tools
+Knowledge Capture and Creation Tools - Content Creation Tools - Data Mining and Knowledge Discovery – Blogs – Mashups - Content Management Tools - Folksonomies and Social Tagging/Bookmarking - Personal Knowledge Management (PKM)-Knowledge Sharing and Dissemination Tools, Networking Technologies - Knowledge Acquisition and Application Tools - Intelligent Filtering Tools - Adaptive Technologies	12
+V	The Knowledge Management Team
+Major Categories of KM Roles - Senior Management Roles - KM Roles and Responsibilities within Organizations - The KM Profession - The Ethics of KM
+Future Challenges for Knowledge Management
+Political Issues Regarding Internet Search Engines - The Politics of Organizational Context and Culture - Shift to Knowledge-Based Assets - Intellectual Property Issues - How to Provide Incentives for Knowledge Sharing - Future Challenges for KM - KM Research - A Postmodern KM
+	12
+
+Books and References:
+Sr. No.	Title	Author/s	Publisher	Edition	Year
+1.		Knowledge Management in Theory and Practice
+	Kimiz Dalkir	Elsevier	3rd	2005
+2.						
+
+Course Outcome	●	Understand importance of software engineering and project development life cycle.
+
+
+
+
+
+	
+
+
+
+
+
+
+
+B. Sc. (Data Science) 	Semester – VI
+Course Name: Elective-II	Course Code: TCSCUSDS605
+Periods per week (1 Period is 50 minutes) 	5 
+Credits 	2 
+	Hours                                            	Marks
+Evaluation System 	Theory Examination 	2½ 	60
+	Internal	-- 	40(20 –Test, 10 – Tutorial, 10 – Active Participation)
+
+Course Name: Elective-II Practical 	Course Code: TCSCUSDSP605
+Periods per week (1 Period is 50 minutes) 	3 (10 Practicals covering the syllabus) 
+Credits 	2 
+	Hours	Marks
+Evaluation System 	Practical Examination 	2½ 	50 
+Internal 	-- 	-- 
+
+Objectives	1. This course aims to provide conceptual understanding of Data visualization techniques.
+2. This course aims to provide the basic understanding of data in business intelligence.
+
+Internet of Things
+Unit 	Details 	Lectures 
+I 	The Internet of Things: An Overview: The Flavour of the Internet of Things, The “Internet” of “Things”, The Technology of the Internet of Things, Enchanted Objects, Who is Making the Internet of Things?
+Design Principles for Connected Devices: Calm and Ambient Technology, Magic as Metaphor, Privacy, Keeping Secrets, Whose Data Is It Anyway? Web Thinking for Connected Devices, Small Pieces, Loosely Joined, First-Class Citizens on The Internet, Graceful Degradation, Affordances.
+Internet Principles: Internet Communications: An Overview, IP, TCP, The IP Protocol Suite (TCP/IP), UDP, IP Addresses, DNS, Static IP Address Assignment, Dynamic IP Address Assignment, IPv6, MAC Addresses, TCP and UDP Ports, An Example: HTTP Ports, Other Common Ports, Application Layer Protocols, HTTP, HTTPS: Encrypted HTTP, Other Application Layer Protocols.	12 
+II 	Thinking About Prototyping: Sketching, Familiarity, Costs versus Ease of Prototyping, Prototypes and Production, Changing Embedded Platform, Physical Prototypes and Mass Personalisation, climbing into the Cloud, Open Source versus Closed Source, Why Closed? Why Open? Mixing Open and Closed Source, Closed Source for Mass Market Projects, Tapping into the Community.
+Prototyping Embedded Devices: Electronics, Sensors, Actuators, Scaling Up the Electronics, Embedded Computing Basics, Microcontrollers, System-on-Chips, Choosing Your Platform, Arduino, developing on the Arduino, Some Notes on the Hardware, Openness, Raspberry Pi, Cases and Extension Boards, Developing on the Raspberry Pi, Some Notes on the Hardware, Openness.	12 
+III 	Prototyping the Physical Design: Preparation, Sketch, Iterate, and Explore, Nondigital Methods, Laser Cutting, Choosing a Laser Cutter, Software, Hinges and Joints, 3D Printing, Types of 3D Printing, Software, CNC Milling, Repurposing/Recycling.
+Prototyping Online Components: Getting Started with an API, Mashing Up APIs, Scraping, Legalities, writing a New API, Clockodillo, Security, implementing the API, Using Curl to Test, Going Further, Real-Time Reactions, Polling, Comet, Other Protocols, MQ Telemetry Transport, Extensible Messaging and Presence Protocol, Constrained Application Protocol.	12 
+IV 	Techniques for Writing Embedded Code: Memory Management, Types of Memory, Making the Most of Your RAM, Performance and Battery Life, Libraries, Debugging.
+Business Models: A Short History of Business Models, Space and Time, From Craft to Mass Production, The Long Tail of the Internet, Learning from History, The Business Model Canvas, Who Is the Business Model For? Models, Make Thing, Sell Thing, Subscriptions, Customisation, be a Key Resource, Provide Infrastructure: Sensor Networks, take a Percentage, Funding an Internet of Things Startup, Hobby Projects and Open Source, Venture Capital, Government Funding, Crowdfunding, Lean Startups.	12 
+V 	Moving to Manufacture: What Are You Producing? Designing Kits, Designing Printed circuit boards, Software Choices, The Design Process, Manufacturing Printed Circuit Boards, Etching Boards, Milling Boards. Assembly, Testing, Mass-Producing the Case and Other Fixtures, Certification, Costs, Scaling Up Software, Deployment, Correctness and Maintainability, Security, Performance, User Community.
+Ethics: Characterizing the Internet of Things, Privacy, Control, Disrupting Control,Crowdsourcing, Environment, Physical Thing, Electronics, Internet Service, Solutions, The Internet of Things as Part of the Solution, Cautious Optimism, The Open Internet of Things Definition.	12 
+
+Books and References:
+Sr. No.	Title	Author/s	Publisher	Edition	Year
+1.	DesigningtheInternetof Things	Adrian McEwen, Hakim Cassimally	WILEY	First	2014
+2.	Internet of Things – Architecture and Design	Raj Kamal	McGraw Hill	First	2017
+3.	Getting Started with the
+Internet of Things	CunoPfister	O‟Reilly	Sixth	2018
+4.	Getting Started with Raspberry Pi	Matt Richardson and Shawn Wallace	SPD	Third	2016
+
+
+Course Outcome	●	Understand importance of data in business intelligence.
+
+
+
